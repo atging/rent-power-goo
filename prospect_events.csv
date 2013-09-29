@@ -1,0 +1,1548 @@
+"prospect_id","datestamp","event_name","agent_id","source","unit_type_id"
+15,"2012-04-10","Show",3,"PUB-Apartment Guides",94
+15,"2012-04-10","SubmitApplication",3,"PUB-Apartment Guides",94
+15,"2012-04-10","ApplicationCanceled",3,"PUB-Apartment Guides",94
+16,"2012-04-10","SubmitApplication",3,"PUB-Apartment Guides",94
+16,"2012-04-10","ApplicationApproved",3,"PUB-Apartment Guides",94
+16,"2012-04-10","Show",3,"PUB-Apartment Guides",94
+16,"2012-04-11","LeaseSigned",3,"PUB-Apartment Guides",94
+17,"2012-04-10","Appointment",3,"WEB-Rent.com",96
+17,"2012-04-10","Show",3,"WEB-Rent.com",96
+17,"2012-04-25","SubmitApplication",3,"WEB-Rent.com",96
+17,"2012-05-31","ApplicationCanceled",3,"WEB-Rent.com",96
+18,"2012-04-10","Show",3,"REF-Neighborhood Resident",95
+18,"2012-04-10","SubmitApplication",3,"REF-Neighborhood Resident",95
+18,"2012-04-11","ApplicationApproved",3,"REF-Neighborhood Resident",95
+18,"2012-04-11","LeaseSigned",3,"REF-Neighborhood Resident",95
+19,"2012-04-10","Show",3,"PUB-For Rent",94
+19,"2012-07-19","SubmitApplication",3,"PUB-For Rent",94
+19,"2012-07-19","ApplicationApproved",3,"PUB-For Rent",94
+19,"2012-07-19","RentOverride",3,"PUB-For Rent",94
+19,"2012-08-14","LeaseSigned",4,"PUB-For Rent",94
+20,"2012-04-10","Show",3,"REF-Neighborhood Resident",94
+20,"2012-04-10","SubmitApplication",3,"REF-Neighborhood Resident",94
+20,"2012-04-11","ApplicationApproved",3,"REF-Neighborhood Resident",94
+20,"2012-04-11","LeaseSigned",3,"REF-Neighborhood Resident",94
+21,"2012-04-10","Appointment",3,"WEB-Rent.com",94
+21,"2012-04-10","Show",3,"WEB-Rent.com",94
+21,"2012-04-11","SubmitApplication",3,"WEB-Rent.com",94
+21,"2012-04-13","ApplicationApproved",3,"WEB-Rent.com",94
+21,"2012-04-13","LeaseSigned",3,"WEB-Rent.com",94
+22,"2012-04-17","Show",3,"WEB-Google Places",94
+22,"2012-04-17","Appointment",3,"WEB-Google Places",94
+23,"2012-04-15","Appointment",3,"WEB-Rent.com",94
+24,"2012-04-20","Appointment",3,"WEB-Rent.com",95
+24,"2012-04-20","Show",3,"WEB-Rent.com",95
+24,"2012-04-20","SubmitApplication",3,"WEB-Rent.com",95
+24,"2012-04-24","ApplicationDenied",3,"WEB-Rent.com",95
+25,"2012-04-16","Show",3,"PUB-For Rent",96
+25,"2012-04-16","SubmitApplication",3,"PUB-For Rent",96
+25,"2012-04-22","ApplicationDenied",3,"PUB-For Rent",96
+26,"2012-04-16","Show",3,"WEB-Rent.com",94
+26,"2012-04-16","SubmitApplication",3,"WEB-Rent.com",94
+26,"2012-04-16","ApplicationCanceled",3,"WEB-Rent.com",94
+27,"2012-04-20","Appointment",3,"REF-Neighborhood Resident",96
+27,"2012-04-23","Show",3,"REF-Neighborhood Resident",94
+27,"2012-04-23","SubmitApplication",3,"REF-Neighborhood Resident",96
+27,"2012-04-23","ApplicationApproved",3,"REF-Neighborhood Resident",96
+27,"2012-04-23","LeaseSigned",3,"REF-Neighborhood Resident",96
+27,"2012-04-28","ReApply",3,"REF-Neighborhood Resident",96
+27,"2012-04-28","AssignUnit",NULL,"REF-Neighborhood Resident",96
+28,"2012-04-16","Show",3,"WEB-Craigslist",96
+28,"2012-04-16","SubmitApplication",3,"WEB-Craigslist",96
+28,"2012-04-18","ApplicationApproved",3,"WEB-Craigslist",96
+28,"2012-04-18","LeaseSigned",3,"WEB-Craigslist",96
+29,"2012-04-17","Show",3,"WEB-Apartments.Com",96
+30,"2012-04-18","Show",3,"REF-Neighborhood Resident",94
+30,"2012-04-23","SubmitApplication",3,"REF-Neighborhood Resident",94
+30,"2012-05-08","ApplicationApproved",3,"REF-Neighborhood Resident",94
+30,"2012-05-09","LeaseSigned",3,"REF-Neighborhood Resident",94
+31,"2012-04-18","Show",3,"WEB-Craigslist",96
+31,"2012-04-18","SubmitApplication",3,"WEB-Craigslist",96
+31,"2012-04-18","ApplicationApproved",3,"WEB-Craigslist",96
+31,"2012-04-18","LeaseSigned",3,"WEB-Craigslist",96
+32,"2012-04-18","Email",2,"Portal",94
+33,"2012-04-20","Show",5,"PUB-For Rent",96
+33,"2012-04-20","SubmitApplication",5,"PUB-For Rent",96
+33,"2012-04-20","ApplicationDenied",5,"PUB-For Rent",96
+34,"2012-04-21","Show",5,"SIGN-Monument",94
+35,"2012-04-22","SubmitApplication",3,"WEB-Rent.com",96
+35,"2012-04-22","ApplicationApproved",3,"WEB-Rent.com",96
+35,"2012-04-22","LeaseSigned",3,"WEB-Rent.com",96
+35,"2012-04-22","Show",3,"WEB-Rent.com",96
+36,"2012-04-26","Appointment",3,"WEB-Rent.com",94
+37,"2012-04-23","LeaseSigned",3,"PUB-Apartment Guides",94
+37,"2012-04-23","Show",3,"PUB-Apartment Guides",94
+37,"2012-04-23","SubmitApplication",3,"PUB-Apartment Guides",94
+37,"2012-04-23","ApplicationApproved",3,"PUB-Apartment Guides",94
+38,"2012-04-23","Show",3,"WEB-Rent.com",94
+38,"2012-04-23","SubmitApplication",3,"WEB-Rent.com",94
+38,"2012-05-02","ApplicationDenied",3,"WEB-Rent.com",94
+39,"2012-04-24","Email",2,"Portal",96
+40,"2012-04-24","Appointment",3,"WEB-Craigslist",95
+41,"2012-04-25","Appointment",3,"REF-Ex-Resident",96
+41,"2012-04-25","Show",3,"REF-Ex-Resident",96
+41,"2012-05-01","CanceledGuest",3,"REF-Ex-Resident",94
+41,"2012-05-13","ReactivatedGuest",3,"REF-Ex-Resident",94
+41,"2012-05-13","RentOverride",3,"REF-Ex-Resident",96
+41,"2012-05-13","SubmitApplication",3,"REF-Ex-Resident",96
+41,"2012-05-14","LeaseSigned",3,"REF-Ex-Resident",96
+41,"2012-05-14","ApplicationApproved",3,"REF-Ex-Resident",96
+42,"2012-04-24","Show",3,"REF-Neighborhood Resident",94
+42,"2012-04-24","SubmitApplication",3,"REF-Neighborhood Resident",94
+42,"2012-04-25","ApplicationApproved",3,"REF-Neighborhood Resident",94
+42,"2012-04-25","LeaseSigned",3,"REF-Neighborhood Resident",94
+43,"2012-04-24","Show",3,"AD - Google Places",96
+43,"2012-04-24","SubmitApplication",3,"AD - Google Places",96
+43,"2012-04-24","ApplicationCanceled",3,"AD - Google Places",96
+43,"2012-04-24","ReApply",3,"AD - Google Places",96
+43,"2012-04-24","ApplicationApproved",3,"AD - Google Places",96
+43,"2012-04-24","Appointment",3,"AD - Google Places",96
+43,"2012-04-27","LeaseSigned",3,"AD - Google Places",96
+44,"2012-04-25","Appointment",5,"WEB-Rent.com",96
+46,"2012-04-28","Show",3,"REF-Neighborhood Resident",94
+46,"2012-04-28","SubmitApplication",3,"REF-Neighborhood Resident",94
+46,"2012-05-07","ApplicationApproved",3,"REF-Neighborhood Resident",94
+46,"2012-05-07","LeaseSigned",3,"REF-Neighborhood Resident",94
+47,"2012-04-29","Email",2,"Portal",96
+47,"2012-04-30","Show",5,"Portal",94
+48,"2012-04-30","Show",3,"WEB-Rent.com",96
+48,"2012-04-30","SubmitApplication",3,"WEB-Rent.com",96
+48,"2012-04-30","ApplicationApproved",3,"WEB-Rent.com",96
+48,"2012-04-30","LeaseSigned",3,"WEB-Rent.com",96
+49,"2012-05-01","ApplicationApproved",3,"WEB-Rent.com",94
+49,"2012-05-01","LeaseSigned",3,"WEB-Rent.com",94
+49,"2012-05-01","Show",3,"WEB-Rent.com",94
+49,"2012-05-01","SubmitApplication",3,"WEB-Rent.com",94
+50,"2012-05-02","Show",3,"WEB-Rent.com",94
+50,"2012-05-02","SubmitApplication",3,"WEB-Rent.com",94
+50,"2012-05-02","ApplicationApproved",3,"WEB-Rent.com",94
+50,"2012-05-02","LeaseSigned",3,"WEB-Rent.com",94
+51,"2012-05-02","Show",3,"PUB-For Rent",94
+52,"2012-05-02","Show",3,"WEB-Apartments.Com",94
+53,"2012-05-03","Show",6,"WEB-Apartments.Com",94
+54,"2012-05-04","Show",3,"WEB-Rent.com",94
+54,"2012-05-04","SubmitApplication",3,"WEB-Rent.com",94
+54,"2012-05-04","ApplicationApproved",3,"WEB-Rent.com",94
+54,"2012-05-04","LeaseSigned",3,"WEB-Rent.com",94
+55,"2012-05-04","Show",3,"WEB-Craigslist",94
+55,"2012-05-04","SubmitApplication",3,"WEB-Craigslist",94
+55,"2012-05-04","ApplicationApproved",3,"WEB-Craigslist",94
+55,"2012-05-04","LeaseSigned",3,"WEB-Craigslist",94
+56,"2012-05-04","Show",6,"Greystar.com",94
+56,"2012-05-04","SubmitApplication",6,"Greystar.com",94
+56,"2012-05-07","ApplicationCanceled",6,"Greystar.com",94
+57,"2012-05-04","Show",3,"AD - Google Places",94
+57,"2012-05-04","SubmitApplication",3,"AD - Google Places",94
+57,"2012-05-04","ApplicationApproved",3,"AD - Google Places",94
+57,"2012-05-04","LeaseSigned",3,"AD - Google Places",94
+58,"2012-05-04","ApplicationDenied",3,"WEB-Rent.com",94
+58,"2012-05-04","Show",3,"WEB-Rent.com",94
+58,"2012-05-04","SubmitApplication",3,"WEB-Rent.com",94
+59,"2012-05-07","Show",3,"WEB-Apartments.Com",96
+59,"2012-05-07","SubmitApplication",3,"WEB-Apartments.Com",96
+59,"2012-05-10","ApplicationApproved",3,"WEB-Apartments.Com",96
+59,"2012-05-10","LeaseSigned",3,"WEB-Apartments.Com",96
+60,"2012-05-08","Show",3,"PUB-For Rent",94
+61,"2012-05-09","Show",3,"WEB-Rent.com",94
+62,"2012-05-11","Show",3,"WEB-Rent.com",94
+62,"2012-05-11","RentOverride",3,"WEB-Rent.com",94
+62,"2012-05-11","SubmitApplication",3,"WEB-Rent.com",94
+62,"2012-05-11","ApplicationApproved",3,"WEB-Rent.com",94
+62,"2012-05-11","LeaseSigned",3,"WEB-Rent.com",94
+63,"2012-05-11","Email",2,"Portal",94
+64,"2012-05-11","Show",3,"REF-Resident Referral",94
+64,"2012-05-11","RentOverride",3,"REF-Resident Referral",94
+64,"2012-05-11","SubmitApplication",3,"REF-Resident Referral",94
+64,"2012-05-14","ApplicationCanceled",3,"REF-Resident Referral",94
+65,"2012-05-12","Show",5,"SIGN-Monument",94
+66,"2012-05-12","Show",5,"WEB-Rent.com",94
+67,"2012-05-12","Show",5,"WEB-Rent.com",94
+68,"2012-05-14","LeaseSigned",3,"WEB-Rent.com",94
+68,"2012-05-14","AssignUnit",NULL,"WEB-Rent.com",94
+68,"2012-05-14","Appointment",3,"WEB-Rent.com",94
+68,"2012-05-14","Show",3,"WEB-Rent.com",94
+68,"2012-05-14","RentOverride",3,"WEB-Rent.com",94
+68,"2012-05-14","SubmitApplication",3,"WEB-Rent.com",94
+68,"2012-05-14","ApplicationApproved",3,"WEB-Rent.com",94
+69,"2012-05-17","Appointment",5,"WEB-Rent.com",94
+70,"2012-05-14","Show",2,"WEB-Rent.com",94
+70,"2012-05-14","RentOverride",2,"WEB-Rent.com",94
+70,"2012-05-14","SubmitApplication",2,"WEB-Rent.com",94
+70,"2012-05-14","ApplicationCanceled",2,"WEB-Rent.com",94
+71,"2012-05-14","Show",2,"WEB-Google Places",94
+71,"2012-05-14","RentOverride",2,"WEB-Google Places",94
+71,"2012-05-14","SubmitApplication",2,"WEB-Google Places",94
+71,"2012-05-14","ApplicationCanceled",2,"WEB-Google Places",94
+72,"2012-06-03","Appointment",5,"PUB-Apartment Guides",94
+73,"2012-05-14","RentOverride",2,"WEB-Rent.com",94
+73,"2012-05-14","SubmitApplication",2,"WEB-Rent.com",94
+73,"2012-05-14","ApplicationCanceled",2,"WEB-Rent.com",94
+73,"2012-05-14","Show",2,"WEB-Rent.com",94
+74,"2012-05-15","Show",5,"WEB-Rent.com",96
+75,"2012-05-18","Appointment",3,"PUB-Apartment Guides",95
+76,"2012-05-16","Appointment",3,"WEB-Rent.com",94
+76,"2012-05-16","Show",3,"WEB-Rent.com",94
+77,"2012-05-16","Show",2,"WEB-Google Places",94
+77,"2012-05-16","RentOverride",2,"WEB-Google Places",94
+77,"2012-05-16","CanceledGuest",2,"WEB-Google Places",94
+78,"2012-05-16","Show",3,"WEB-Apartments.Com",94
+79,"2012-05-18","CanceledGuest",5,"Greystar.com",94
+79,"2012-05-18","Show",5,"Greystar.com",94
+79,"2012-05-18","RentOverride",5,"Greystar.com",94
+80,"2012-05-18","Show",5,"REF-Neighborhood Resident",94
+81,"2012-05-18","Show",5,"WEB-Rent.com",94
+82,"2012-05-19","Show",3,"WEB-Craigslist",94
+83,"2012-05-22","Appointment",3,"WEB-Apartments.Com",94
+84,"2012-05-21","Show",3,"WEB-Rent.com",94
+84,"2012-05-23","RentOverride",3,"WEB-Rent.com",94
+84,"2012-05-23","SubmitApplication",3,"WEB-Rent.com",94
+84,"2012-05-23","ApplicationCanceled",3,"WEB-Rent.com",94
+84,"2012-05-24","ReApply",3,"WEB-Rent.com",94
+84,"2012-05-24","ApplicationApproved",3,"WEB-Rent.com",94
+84,"2012-05-29","LeaseSigned",3,"WEB-Rent.com",94
+85,"2012-05-21","Email",2,"Portal",94
+85,"2012-05-21","SubmitApplication",2,"Portal",94
+85,"2012-05-23","Show",2,"Portal",94
+85,"2012-05-23","ApplicationCanceled",3,"Portal",94
+86,"2012-05-22","ApplicationApproved",3,"WEB-Rent.com",94
+86,"2012-05-22","LeaseSigned",3,"WEB-Rent.com",94
+86,"2012-05-22","Show",3,"WEB-Rent.com",94
+86,"2012-05-22","RentOverride",3,"WEB-Rent.com",94
+86,"2012-05-22","SubmitApplication",3,"WEB-Rent.com",94
+87,"2012-05-22","Appointment",7,"WEB-Rent.com",96
+87,"2012-05-22","Show",7,"WEB-Rent.com",96
+87,"2012-05-22","RentOverride",7,"WEB-Rent.com",96
+87,"2012-05-22","CanceledGuest",7,"WEB-Rent.com",94
+88,"2012-05-22","Show",5,"WEB-Apt. Guide Internet",94
+88,"2012-05-22","RentOverride",5,"WEB-Apt. Guide Internet",94
+88,"2012-05-22","SubmitApplication",5,"WEB-Apt. Guide Internet",94
+88,"2012-05-22","Appointment",5,"WEB-Apt. Guide Internet",94
+88,"2012-06-04","ApplicationApproved",5,"WEB-Apt. Guide Internet",94
+88,"2012-06-04","LeaseSigned",5,"WEB-Apt. Guide Internet",94
+89,"2012-05-23","RentOverride",3,"WEB-Rent.com",94
+89,"2012-05-23","SubmitApplication",3,"WEB-Rent.com",94
+89,"2012-05-23","ApplicationApproved",3,"WEB-Rent.com",94
+89,"2012-05-23","LeaseSigned",3,"WEB-Rent.com",94
+89,"2012-05-23","Show",3,"WEB-Rent.com",94
+90,"2012-05-23","SubmitApplication",3,"SIGN-Promotional Banner",94
+90,"2012-05-23","ApplicationApproved",3,"SIGN-Promotional Banner",94
+90,"2012-05-23","LeaseSigned",3,"SIGN-Promotional Banner",94
+90,"2012-05-23","Show",3,"SIGN-Promotional Banner",94
+90,"2012-05-23","RentOverride",3,"SIGN-Promotional Banner",94
+91,"2012-05-24","LeaseSigned",3,"REF-Resident Referral",94
+91,"2012-05-24","Show",3,"REF-Resident Referral",94
+91,"2012-05-24","RentOverride",3,"REF-Resident Referral",94
+91,"2012-05-24","SubmitApplication",3,"REF-Resident Referral",94
+91,"2012-05-24","ApplicationApproved",3,"REF-Resident Referral",94
+92,"2012-05-24","Show",7,"WEB-Rent.com",94
+92,"2012-05-24","RentOverride",7,"WEB-Rent.com",94
+92,"2012-05-24","CanceledGuest",7,"WEB-Rent.com",94
+93,"2012-05-25","SubmitApplication",5,"WEB-Rent.com",94
+93,"2012-05-25","Show",5,"WEB-Rent.com",94
+93,"2012-05-25","RentOverride",5,"WEB-Rent.com",94
+93,"2012-06-04","ApplicationApproved",5,"WEB-Rent.com",94
+93,"2012-06-14","LeaseSigned",5,"WEB-Rent.com",94
+94,"2012-05-29","Show",3,"WEB-Rent.com",96
+95,"2012-05-31","ApplicationApproved",3,"WEB-Craigslist",94
+95,"2012-05-31","LeaseSigned",3,"WEB-Craigslist",94
+95,"2012-05-31","Show",3,"WEB-Craigslist",94
+95,"2012-05-31","RentOverride",3,"WEB-Craigslist",94
+95,"2012-05-31","SubmitApplication",3,"WEB-Craigslist",94
+96,"2012-05-31","Show",3,"REF-Resident Referral",94
+97,"2012-06-01","Show",5,"WEB-Rent.com",96
+97,"2012-06-05","SubmitApplication",5,"WEB-Rent.com",96
+97,"2012-06-06","LeaseSigned",5,"WEB-Rent.com",96
+97,"2012-06-06","ApplicationApproved",5,"WEB-Rent.com",96
+98,"2012-06-03","Show",5,"WEB-Rent.com",94
+99,"2012-06-01","Show",6,"REF-Ex-Resident",94
+100,"2012-06-01","Show",6,"WEB-Apartments.Com",94
+101,"2012-06-02","Show",6,"WEB-Craigslist",94
+102,"2012-06-03","Show",5,"WEB-Rent.com",96
+102,"2012-06-04","RentOverride",5,"WEB-Rent.com",94
+102,"2012-06-04","SubmitApplication",5,"WEB-Rent.com",94
+102,"2012-06-04","ApplicationDenied",5,"WEB-Rent.com",94
+103,"2012-06-03","Show",5,"WEB-Craigslist",94
+104,"2012-06-03","Show",5,"SIGN-Monument",94
+106,"2012-06-04","Show",3,"WEB-Apt. Guide Internet",96
+107,"2012-06-04","SubmitApplication",5,"SIGN-Monument",94
+107,"2012-06-04","Show",5,"SIGN-Monument",95
+107,"2012-06-05","ApplicationApproved",5,"SIGN-Monument",94
+107,"2012-06-05","LeaseSigned",5,"SIGN-Monument",94
+107,"2012-06-08","AssignUnit",NULL,"SIGN-Monument",94
+108,"2012-06-06","Show",7,"PUB-Apartment Guides",94
+110,"2012-06-28","Appointment",7,"REF-Ex-Resident",95
+111,"2012-06-08","Appointment",3,"WEB-Craigslist",94
+111,"2012-06-08","Show",3,"WEB-Craigslist",94
+112,"2012-06-07","Show",7,"REF-Ex-Resident",95
+113,"2012-06-06","Show",7,"WEB-Rent.com",94
+113,"2012-06-07","LeaseSigned",3,"WEB-Rent.com",94
+113,"2012-06-07","RentOverride",3,"WEB-Rent.com",94
+113,"2012-06-07","SubmitApplication",7,"WEB-Rent.com",94
+113,"2012-06-07","ApplicationApproved",3,"WEB-Rent.com",94
+114,"2012-06-07","Show",7,"PUB-Apartment Guides",94
+115,"2012-06-08","Show",7,"WEB-Apt. Guide Internet",94
+116,"2012-06-08","Show",7,"SIGN-Monument",94
+116,"2012-06-08","RentOverride",7,"SIGN-Monument",94
+116,"2012-06-08","SubmitApplication",7,"SIGN-Monument",94
+116,"2012-06-09","ApplicationApproved",3,"SIGN-Monument",94
+116,"2012-06-09","LeaseSigned",7,"SIGN-Monument",94
+117,"2012-06-09","LeaseSigned",3,"SIGN-Monument",94
+117,"2012-06-09","Show",3,"SIGN-Monument",94
+117,"2012-06-09","RentOverride",3,"SIGN-Monument",94
+117,"2012-06-09","SubmitApplication",3,"SIGN-Monument",94
+117,"2012-06-09","ApplicationApproved",3,"SIGN-Monument",94
+118,"2012-06-11","Show",3,"Property Website",94
+119,"2012-06-11","Show",3,"PUB-Apartment Guides",94
+120,"2012-06-12","Show",3,"WEB-Rent.com",94
+121,"2012-06-13","Show",5,"WEB-Rent.com",94
+122,"2012-06-13","SubmitApplication",3,"SIGN-Monument",94
+122,"2012-06-13","ApplicationApproved",3,"SIGN-Monument",94
+122,"2012-06-13","LeaseSigned",3,"SIGN-Monument",94
+122,"2012-06-13","Show",3,"SIGN-Monument",94
+122,"2012-06-13","RentOverride",3,"SIGN-Monument",94
+123,"2012-06-17","Show",5,"WEB-Rent.com",94
+124,"2012-06-17","Show",5,"WEB-Apt. Guide Internet",94
+125,"2012-06-17","Show",5,"SIGN-Monument",94
+126,"2012-06-17","Show",5,"SIGN-Monument",94
+127,"2012-06-17","Show",5,"SIGN-Monument",94
+127,"2012-06-20","RentOverride",5,"SIGN-Monument",94
+127,"2012-06-20","SubmitApplication",5,"SIGN-Monument",94
+127,"2012-07-09","ApplicationApproved",5,"SIGN-Monument",94
+127,"2012-07-09","LeaseSigned",5,"SIGN-Monument",94
+128,"2012-06-17","Show",5,"SIGN-Monument",94
+129,"2012-06-18","Show",5,"WEB-Rent.com",94
+129,"2012-06-18","RentOverride",5,"WEB-Rent.com",94
+129,"2012-06-18","SubmitApplication",5,"WEB-Rent.com",94
+129,"2012-06-19","ApplicationApproved",5,"WEB-Rent.com",94
+129,"2012-06-19","LeaseSigned",5,"WEB-Rent.com",94
+130,"2012-06-18","RentOverride",5,"WEB-Rent.com",94
+130,"2012-06-18","SubmitApplication",5,"WEB-Rent.com",94
+130,"2012-06-18","Show",5,"WEB-Rent.com",94
+130,"2012-06-19","ApplicationApproved",5,"WEB-Rent.com",94
+130,"2012-06-19","LeaseSigned",5,"WEB-Rent.com",94
+131,"2012-06-19","Show",7,"SIGN-Monument",95
+132,"2012-06-20","Appointment",7,"WEB-Apartments.Com",95
+133,"2012-06-23","Appointment",7,"WEB-Rent.com",95
+134,"2012-06-21","Appointment",7,"SIGN-Monument",94
+134,"2012-06-21","Show",7,"SIGN-Monument",94
+134,"2012-06-28","RentOverride",7,"SIGN-Monument",94
+134,"2012-06-28","SubmitApplication",7,"SIGN-Monument",94
+134,"2012-06-28","ApplicationDenied",7,"SIGN-Monument",94
+136,"2012-06-25","Show",7,"SIGN-Monument",96
+137,"2012-06-26","Show",7,"WEB-Apartments.Com",96
+137,"2012-07-16","RentOverride",7,"WEB-Apartments.Com",96
+137,"2012-07-16","SubmitApplication",4,"WEB-Apartments.Com",96
+137,"2012-07-19","ApplicationApproved",4,"WEB-Apartments.Com",96
+137,"2012-07-19","LeaseSigned",4,"WEB-Apartments.Com",96
+139,"2012-06-26","Show",7,"WEB-Apartments.Com",95
+140,"2012-06-28","Show",7,"REF-Resident Referral",94
+141,"2012-07-07","Appointment",7,"Property Website",94
+142,"2012-06-30","WalkIn",7,"WEB-Apartments.Com",94
+143,"2012-07-02","Email",2,"Portal",94
+144,"2012-07-09","Appointment",7,"WEB-Rent.com",96
+145,"2012-07-05","Show",7,"SIGN-Monument",94
+146,"2012-07-06","Show",7,"WEB-Rent.com",96
+146,"2012-07-12","Appointment",7,"WEB-Rent.com",96
+147,"2012-07-09","Appointment",7,"REF-Resident Referral",96
+147,"2012-07-31","Show",4,"REF-Resident Referral",96
+147,"2012-07-31","SubmitApplication",4,"REF-Resident Referral",96
+147,"2012-07-31","ApplicationDenied",4,"REF-Resident Referral",96
+148,"2012-07-08","Show",5,"PUB-For Rent",95
+149,"2012-07-08","Show",5,"PUB-For Rent",94
+150,"2012-07-08","Show",5,"PUB-Apartment Guides",94
+151,"2012-07-08","Show",5,"SIGN-Monument",94
+151,"2013-02-22","RentOverride",5,"SIGN-Monument",94
+151,"2013-02-22","SubmitApplication",5,"SIGN-Monument",94
+151,"2013-02-22","ApplicationApproved",5,"SIGN-Monument",94
+151,"2013-03-13","AssignUnit",NULL,"SIGN-Monument",94
+151,"2013-03-13","LeaseSigned",5,"SIGN-Monument",94
+152,"2012-07-08","Show",5,"REF-Neighborhood Resident",94
+153,"2012-07-08","Show",5,"PUB-For Rent",94
+154,"2012-07-08","Show",5,"PUB-For Rent",96
+155,"2012-07-08","Show",5,"PUB-For Rent",94
+156,"2012-07-08","Show",5,"SIGN-Monument",94
+157,"2012-07-09","Appointment",7,"WEB-Rent.com",94
+157,"2012-07-09","Show",7,"WEB-Rent.com",94
+158,"2012-07-12","Appointment",7,"SIGN-Monument",96
+159,"2012-07-10","Appointment",7,"REF-Resident Referral",96
+160,"2012-07-09","Show",7,"SIGN-Monument",94
+161,"2012-07-10","Show",4,"WEB-Rent.com",96
+162,"2012-07-12","Show",4,"SIGN-Monument",94
+163,"2012-07-12","Appointment",4,"PUB-Apartment Guides",94
+164,"2012-07-13","Show",4,"WEB-Rent.com",96
+165,"2012-07-13","Show",4,"Property Website",95
+165,"2012-07-13","RentOverride",4,"Property Website",95
+165,"2012-07-13","SubmitApplication",4,"Property Website",95
+165,"2012-07-30","ApplicationApproved",4,"Property Website",95
+165,"2012-08-01","LeaseSigned",4,"Property Website",95
+166,"2012-07-14","Show",4,"WEB-Rent.com",94
+168,"2012-07-15","Show",4,"WEB-Google Places",96
+168,"2012-07-15","RentOverride",4,"WEB-Google Places",96
+168,"2012-07-15","SubmitApplication",4,"WEB-Google Places",96
+168,"2012-07-16","LeaseSigned",4,"WEB-Google Places",96
+168,"2012-07-16","ApplicationApproved",4,"WEB-Google Places",96
+169,"2012-07-15","Show",3,"WEB-Apt. Guide Internet",94
+170,"2012-07-16","Show",5,"REF-Resident Referral",94
+171,"2012-07-16","Appointment",4,"PUB-Apartment Guides",94
+173,"2012-07-17","Show",5,"SIGN-Monument",94
+174,"2012-07-18","Show",5,"SIGN-Monument",96
+175,"2012-07-18","Show",5,"SIGN-Monument",96
+176,"2012-07-19","Show",5,"WEB-Rent.com",94
+176,"2012-07-19","RentOverride",5,"WEB-Rent.com",94
+176,"2012-07-19","SubmitApplication",5,"WEB-Rent.com",94
+176,"2012-07-19","ApplicationApproved",5,"WEB-Rent.com",94
+176,"2012-07-20","LeaseSigned",5,"WEB-Rent.com",94
+177,"2012-07-19","Appointment",4,"SIGN-Monument",96
+178,"2012-07-20","Show",4,"WEB-Rent.com",94
+179,"2012-07-20","Show",4,"WEB-Google Places",94
+180,"2012-07-20","Email",2,"Portal",94
+181,"2012-07-20","Show",4,"WEB-Google Places",95
+181,"2012-07-27","ApplicationApproved",4,"WEB-Google Places",95
+181,"2012-07-27","RentOverride",4,"WEB-Google Places",95
+181,"2012-07-27","SubmitApplication",4,"WEB-Google Places",95
+181,"2012-07-31","LeaseSigned",4,"WEB-Google Places",95
+181,"2012-09-22","Appointment",4,"WEB-Google Places",95
+182,"2012-07-20","Appointment",4,"SIGN-Monument",94
+183,"2012-07-21","ApplicationApproved",5,"PUB-For Rent",94
+183,"2012-07-21","LeaseSigned",5,"PUB-For Rent",94
+183,"2012-07-21","Show",5,"PUB-For Rent",94
+183,"2012-07-21","RentOverride",5,"PUB-For Rent",94
+183,"2012-07-21","SubmitApplication",5,"PUB-For Rent",94
+184,"2012-07-21","SubmitApplication",2,"Portal",95
+184,"2012-07-21","Email",2,"Portal",95
+184,"2012-08-01","ApplicationCanceled",2,"Portal",95
+185,"2012-07-23","Email",2,"Portal",94
+185,"2012-07-25","RentOverride",2,"Portal",94
+185,"2012-07-25","SubmitApplication",4,"Portal",94
+185,"2012-07-25","ApplicationApproved",4,"Portal",94
+185,"2012-07-25","LeaseSigned",4,"Portal",94
+186,"2012-07-24","Show",4,"SIGN-Monument",94
+186,"2013-04-30","Call",4,"SIGN-Monument",94
+188,"2012-07-24","Show",4,"REF-Resident Referral",94
+189,"2012-07-24","Email",2,"REF-Resident Referral",94
+189,"2012-07-25","SubmitApplication",2,"REF-Resident Referral",94
+189,"2012-07-26","RentOverride",2,"REF-Resident Referral",94
+189,"2012-07-26","Show",4,"REF-Resident Referral",94
+189,"2012-07-26","AssignUnit",NULL,"REF-Resident Referral",94
+189,"2012-07-26","ApplicationDenied",4,"REF-Resident Referral",94
+190,"2012-07-29","Appointment",4,"WEB-Apt. Guide Internet",94
+191,"2012-07-26","Show",4,"WEB-Apt. Guide Internet",96
+192,"2012-07-26","Show",6,"SIGN-Promotional Banner",94
+193,"2012-08-01","Appointment",4,"WEB-Apt. Guide Internet",96
+195,"2012-07-27","Show",4,"WEB-Rent.com",94
+195,"2012-07-27","Appointment",4,"WEB-Rent.com",94
+196,"2012-07-28","Email",2,"Portal",96
+197,"2012-07-28","Show",5,"PUB-For Rent",94
+198,"2012-07-28","Show",5,"REF-Neighborhood Resident",94
+199,"2012-07-28","Show",5,"REF-Ex-Resident",94
+200,"2012-07-28","Show",5,"SIGN-Monument",94
+201,"2012-07-28","Show",5,"SIGN-Monument",94
+202,"2012-08-01","Appointment",4,"SIGN-Monument",96
+203,"2012-07-31","RentOverride",4,"SIGN-Monument",96
+203,"2012-07-31","SubmitApplication",4,"SIGN-Monument",96
+203,"2012-07-31","ApplicationApproved",4,"SIGN-Monument",96
+203,"2012-07-31","LeaseSigned",4,"SIGN-Monument",96
+203,"2012-07-31","Show",4,"SIGN-Monument",96
+204,"2012-08-01","Show",4,"WEB-Rent.com",94
+205,"2012-08-02","Show",4,"SIGN-Monument",94
+206,"2012-08-04","Show",4,"SIGN-Monument",96
+207,"2012-08-04","Show",4,"SIGN-Monument",96
+208,"2012-08-04","Show",4,"SIGN-Monument",94
+208,"2012-08-04","RentOverride",4,"SIGN-Monument",94
+208,"2012-08-04","SubmitApplication",4,"SIGN-Monument",94
+208,"2012-08-04","ApplicationDenied",4,"SIGN-Monument",94
+209,"2012-08-06","Show",4,"PUB-Apartment Guides",94
+210,"2012-08-06","Appointment",4,"WEB-Apt. Guide Internet",95
+211,"2012-08-07","Show",5,"PUB-Apartment Guides",94
+212,"2012-08-07","Show",5,"REF-Ex-Resident",94
+213,"2012-08-07","Show",5,"PUB-Apartment Guides",94
+214,"2012-08-07","Show",5,"WEB-Rent.com",94
+215,"2012-09-04","Appointment",5,"SIGN-Monument",96
+216,"2012-08-08","Show",5,"REF-Neighborhood Resident",94
+218,"2012-08-09","SubmitApplication",2,"Portal",94
+218,"2012-08-09","ApplicationApproved",2,"Portal",94
+218,"2012-08-09","LeaseSigned",2,"Portal",94
+218,"2012-08-09","Email",2,"Portal",94
+219,"2012-08-09","Show",4,"SIGN-Monument",96
+220,"2012-08-09","Show",4,"PUB-Apartment Guides",94
+223,"2012-08-10","Show",4,"SIGN-Monument",94
+224,"2012-08-11","Show",5,"WEB-Rent.com",94
+228,"2012-08-13","Show",5,"REF-Ex-Resident",95
+229,"2012-08-13","Show",4,"WEB-Rent.com",95
+229,"2012-08-13","RentOverride",4,"WEB-Rent.com",95
+229,"2012-08-13","SubmitApplication",4,"WEB-Rent.com",95
+229,"2012-08-20","ApplicationApproved",4,"WEB-Rent.com",95
+229,"2012-08-20","LeaseSigned",4,"WEB-Rent.com",95
+230,"2012-08-14","Show",4,"SIGN-Monument",94
+231,"2012-08-14","Email",2,"Portal",94
+233,"2012-08-14","Email",2,"Portal",94
+236,"2012-08-15","SubmitApplication",2,"Portal",96
+236,"2012-08-15","Email",2,"Portal",96
+236,"2012-08-17","RentOverride",2,"Portal",96
+236,"2012-08-17","ApplicationApproved",6,"Portal",96
+236,"2012-08-17","LeaseSigned",6,"Portal",96
+239,"2012-08-16","Show",4,"WEB-Rent.com",96
+239,"2012-08-16","RentOverride",4,"WEB-Rent.com",96
+239,"2012-08-16","SubmitApplication",4,"WEB-Rent.com",96
+239,"2012-08-17","ApplicationApproved",6,"WEB-Rent.com",96
+239,"2012-08-17","LeaseSigned",6,"WEB-Rent.com",96
+240,"2012-08-16","Show",4,"SIGN-Monument",94
+243,"2012-08-16","Show",4,"PUB-Apartment Guides",94
+244,"2012-08-16","Show",4,"Property Website",95
+244,"2012-08-16","RentOverride",4,"Property Website",95
+244,"2012-08-16","SubmitApplication",4,"Property Website",95
+244,"2012-08-22","ApplicationApproved",4,"Property Website",95
+244,"2012-08-22","LeaseSigned",4,"Property Website",95
+245,"2012-08-17","LeaseSigned",5,"Property Website",95
+245,"2012-08-17","Show",4,"Property Website",95
+245,"2012-08-17","RentOverride",5,"Property Website",95
+245,"2012-08-17","SubmitApplication",4,"Property Website",95
+245,"2012-08-17","ApplicationApproved",5,"Property Website",95
+246,"2012-08-18","Appointment",4,"PUB-Apartment Guides",94
+247,"2012-08-17","Show",4,"SIGN-Monument",94
+248,"2012-08-17","Show",4,"REF-Neighborhood Resident",94
+250,"2012-08-19","Show",5,"SIGN-Monument",94
+251,"2012-08-19","Show",5,"SIGN-Promotional Banner",94
+252,"2012-08-19","Show",5,"SIGN-Promotional Banner",94
+253,"2012-08-20","Show",4,"SIGN-Monument",94
+255,"2012-08-20","Show",4,"REF-Neighborhood Resident",94
+255,"2012-08-20","RentOverride",4,"REF-Neighborhood Resident",94
+255,"2012-08-20","SubmitApplication",4,"REF-Neighborhood Resident",94
+255,"2012-08-20","ApplicationApproved",4,"REF-Neighborhood Resident",94
+255,"2012-08-21","LeaseSigned",4,"REF-Neighborhood Resident",94
+256,"2012-08-21","Show",4,"REF-Neighborhood Resident",94
+256,"2012-08-21","RentOverride",4,"REF-Neighborhood Resident",94
+256,"2012-08-21","SubmitApplication",4,"REF-Neighborhood Resident",94
+256,"2012-08-22","ApplicationApproved",4,"REF-Neighborhood Resident",94
+256,"2012-08-22","LeaseSigned",4,"REF-Neighborhood Resident",94
+257,"2012-08-25","Appointment",4,"WEB-Apartments.Com",94
+258,"2012-08-22","Show",7,"Greystar.com",94
+258,"2012-08-22","RentOverride",7,"Greystar.com",94
+258,"2012-08-22","SubmitApplication",7,"Greystar.com",94
+258,"2012-08-22","ApplicationCanceled",7,"Greystar.com",94
+259,"2012-08-22","Show",4,"REF-Neighborhood Resident",94
+260,"2012-08-22","Show",4,"REF-Neighborhood Resident",94
+261,"2012-08-22","Show",4,"SIGN-Monument",94
+262,"2012-08-22","Show",4,"REF-Neighborhood Resident",94
+263,"2012-08-23","Show",4,"WEB-Apt. Guide Internet",95
+264,"2012-08-23","Show",4,"SIGN-Monument",94
+265,"2012-08-24","Show",4,"WEB-Google Places",94
+268,"2012-08-27","SubmitApplication",5,"REF-Ex-Resident",94
+268,"2012-08-27","Show",5,"REF-Ex-Resident",94
+268,"2012-08-27","RentOverride",5,"REF-Ex-Resident",94
+268,"2012-08-30","ApplicationDenied",5,"REF-Ex-Resident",94
+269,"2012-08-28","Show",4,"REF-Resident Referral",94
+269,"2012-08-28","RentOverride",4,"REF-Resident Referral",94
+269,"2012-08-28","SubmitApplication",4,"REF-Resident Referral",94
+269,"2012-08-29","LeaseSigned",6,"REF-Resident Referral",94
+269,"2012-08-29","ApplicationApproved",6,"REF-Resident Referral",94
+270,"2012-08-28","Show",4,"REF-Resident Referral",94
+270,"2012-08-28","RentOverride",4,"REF-Resident Referral",94
+270,"2012-08-29","SubmitApplication",4,"REF-Resident Referral",94
+270,"2012-08-30","ApplicationApproved",4,"REF-Resident Referral",94
+270,"2012-08-30","LeaseSigned",6,"REF-Resident Referral",94
+271,"2012-08-29","Show",4,"WEB-Apartments.Com",96
+272,"2012-08-30","Show",4,"REF-Neighborhood Resident",94
+272,"2012-08-30","RentOverride",4,"REF-Neighborhood Resident",94
+272,"2012-08-30","SubmitApplication",4,"REF-Neighborhood Resident",94
+272,"2012-08-30","ApplicationApproved",6,"REF-Neighborhood Resident",94
+272,"2012-08-30","LeaseSigned",6,"REF-Neighborhood Resident",94
+273,"2012-08-30","RentOverride",4,"WEB-Rent.com",94
+273,"2012-08-30","SubmitApplication",4,"WEB-Rent.com",94
+273,"2012-08-30","Show",4,"WEB-Rent.com",94
+273,"2012-08-31","ApplicationApproved",6,"WEB-Rent.com",94
+273,"2012-08-31","LeaseSigned",6,"WEB-Rent.com",94
+274,"2012-08-30","Show",4,"WEB-Rent.com",94
+274,"2012-08-30","RentOverride",4,"WEB-Rent.com",94
+274,"2012-08-30","SubmitApplication",4,"WEB-Rent.com",94
+274,"2012-08-31","ApplicationApproved",6,"WEB-Rent.com",94
+274,"2012-08-31","LeaseSigned",6,"WEB-Rent.com",94
+276,"2012-08-31","Show",5,"SIGN-Monument",94
+276,"2012-09-04","LeaseSigned",5,"SIGN-Monument",95
+276,"2012-09-04","RentOverride",5,"SIGN-Monument",95
+276,"2012-09-04","SubmitApplication",5,"SIGN-Monument",95
+276,"2012-09-04","ApplicationApproved",5,"SIGN-Monument",95
+281,"2012-09-08","Show",5,"REF-Neighborhood Resident",94
+281,"2012-09-10","RentOverride",5,"REF-Neighborhood Resident",94
+281,"2012-09-10","SubmitApplication",5,"REF-Neighborhood Resident",94
+281,"2012-09-11","ApplicationApproved",5,"REF-Neighborhood Resident",94
+281,"2012-09-11","LeaseSigned",5,"REF-Neighborhood Resident",94
+281,"2012-09-18","AssignUnit",NULL,"REF-Neighborhood Resident",94
+282,"2012-09-08","Show",5,"Property Website",94
+283,"2012-09-08","Show",5,"WEB-Rent.com",94
+284,"2012-09-08","Show",5,"PUB-For Rent",94
+285,"2012-09-08","Show",5,"Property Website",94
+286,"2012-09-08","Show",5,"REF-Resident Referral",94
+287,"2012-09-08","Email",2,"Portal",95
+287,"2012-09-08","SubmitApplication",2,"Portal",95
+287,"2012-09-10","RentOverride",2,"Portal",95
+287,"2012-10-01","ApplicationCanceled",5,"Portal",95
+288,"2012-09-09","Show",5,"WEB-Rent.com",94
+289,"2012-09-10","Show",4,"SIGN-Monument",94
+290,"2012-09-10","Show",4,"SIGN-Monument",94
+291,"2012-09-10","Show",4,"REF-Neighborhood Resident",94
+291,"2012-09-10","RentOverride",4,"REF-Neighborhood Resident",94
+291,"2012-09-10","SubmitApplication",4,"REF-Neighborhood Resident",94
+291,"2012-09-11","ApplicationDenied",4,"REF-Neighborhood Resident",94
+292,"2012-09-11","Show",4,"WEB-Apartments.Com",94
+293,"2012-09-21","Appointment",4,"REF-Neighborhood Resident",94
+294,"2012-09-12","Show",4,"SIGN-Promotional Banner",94
+295,"2012-09-13","Show",4,"REF-Resident Referral",94
+295,"2012-09-13","RentOverride",4,"REF-Resident Referral",94
+297,"2012-09-14","Show",4,"SIGN-Promotional Banner",94
+298,"2012-09-14","Show",4,"SIGN-Promotional Banner",94
+300,"2012-09-16","Show",5,"PUB-For Rent",96
+301,"2012-09-17","RentOverride",4,"REF-Ex-Resident",94
+301,"2012-09-17","SubmitApplication",4,"REF-Ex-Resident",94
+301,"2012-09-17","Show",4,"REF-Ex-Resident",94
+301,"2012-09-23","ApplicationCanceled",4,"REF-Ex-Resident",94
+303,"2012-09-19","Show",4,"PUB-For Rent",94
+304,"2012-09-19","Show",4,"SIGN-Promotional Banner",94
+305,"2012-09-20","Show",4,"SIGN-Monument",94
+309,"2012-09-23","Show",5,"WEB-Rent.com",94
+310,"2012-09-23","Show",5,"PUB-For Rent",94
+311,"2012-09-24","Show",5,"REF-Ex-Resident",94
+311,"2012-09-24","RentOverride",5,"REF-Ex-Resident",94
+311,"2012-09-24","SubmitApplication",5,"REF-Ex-Resident",94
+311,"2012-10-01","AssignUnit",NULL,"REF-Ex-Resident",94
+311,"2012-10-15","LeaseSigned",5,"REF-Ex-Resident",94
+311,"2012-10-15","ApplicationApproved",5,"REF-Ex-Resident",94
+313,"2012-09-24","Show",5,"REF-Neighborhood Resident",96
+313,"2012-09-24","RentOverride",5,"REF-Neighborhood Resident",96
+313,"2012-09-24","SubmitApplication",5,"REF-Neighborhood Resident",96
+313,"2012-09-25","ApplicationApproved",5,"REF-Neighborhood Resident",96
+313,"2012-09-25","LeaseSigned",5,"REF-Neighborhood Resident",96
+314,"2012-09-24","Show",4,"WEB-Apt. Guide Internet",94
+316,"2012-09-24","Show",4,"WEB-Google Places",94
+317,"2012-09-25","Show",4,"WEB-Google Places",94
+319,"2012-09-26","Show",4,"SIGN-Promotional Banner",94
+322,"2012-09-26","Show",4,"SIGN-Monument",94
+345,"2012-09-28","SubmitApplication",4,"REF-Neighborhood Resident",94
+345,"2012-09-28","Show",4,"REF-Neighborhood Resident",94
+345,"2012-09-28","RentOverride",4,"REF-Neighborhood Resident",94
+345,"2012-10-15","ApplicationApproved",4,"REF-Neighborhood Resident",94
+345,"2012-10-15","LeaseSigned",4,"REF-Neighborhood Resident",94
+347,"2012-09-28","Show",4,"WEB-Rent.com",94
+347,"2012-10-01","RentOverride",4,"WEB-Rent.com",94
+347,"2012-10-01","SubmitApplication",4,"WEB-Rent.com",94
+347,"2012-10-04","ApplicationDenied",4,"WEB-Rent.com",94
+353,"2012-10-04","Show",5,"PUB-Apartment Guides",94
+353,"2012-10-04","SubmitApplication",5,"PUB-Apartment Guides",94
+353,"2012-10-08","ApplicationApproved",5,"PUB-Apartment Guides",94
+353,"2012-10-08","LeaseSigned",5,"PUB-Apartment Guides",94
+354,"2012-10-04","Show",4,"WEB-Apt. Guide Internet",94
+355,"2012-10-04","SubmitApplication",2,"Portal",94
+355,"2012-10-04","Email",2,"Portal",94
+355,"2012-10-05","RentOverride",2,"Portal",94
+355,"2012-10-05","ApplicationApproved",2,"Portal",94
+355,"2012-10-09","LeaseSigned",2,"Portal",94
+355,"2012-10-22","AssignUnit",NULL,"Portal",94
+356,"2012-10-06","Show",4,"WEB-Rent.com",94
+357,"2012-10-05","Show",4,"REF-Resident Referral",94
+358,"2012-10-06","Show",4,"WEB-Rent.com",94
+358,"2012-10-09","RentOverride",4,"WEB-Rent.com",94
+358,"2012-10-09","SubmitApplication",4,"WEB-Rent.com",94
+358,"2012-10-09","ApplicationApproved",4,"WEB-Rent.com",94
+358,"2012-10-09","LeaseSigned",4,"WEB-Rent.com",94
+360,"2012-10-09","Show",4,"SIGN-Monument",94
+361,"2012-10-10","Email",2,"Portal",94
+361,"2013-03-08","Show",2,"Portal",94
+361,"2013-03-08","RentOverride",2,"Portal",94
+361,"2013-03-08","SubmitApplication",5,"Portal",94
+361,"2013-03-11","ApplicationDenied",5,"Portal",94
+362,"2012-10-14","Show",11,"SIGN-Monument",94
+364,"2012-10-11","SubmitApplication",2,"Portal",94
+364,"2012-10-11","Email",2,"Portal",95
+364,"2012-10-12","Show",2,"Portal",94
+364,"2012-10-12","RentOverride",2,"Portal",94
+364,"2012-10-12","AssignUnit",NULL,"Portal",94
+364,"2012-10-13","ApplicationDenied",5,"Portal",94
+366,"2012-10-14","Show",11,"SIGN-Monument",94
+366,"2012-10-18","RentOverride",11,"SIGN-Monument",94
+366,"2012-10-18","SubmitApplication",5,"SIGN-Monument",94
+366,"2012-10-23","ApplicationApproved",5,"SIGN-Monument",94
+366,"2012-10-23","LeaseSigned",5,"SIGN-Monument",94
+367,"2012-10-14","Show",5,"REF-Neighborhood Resident",96
+368,"2012-10-14","Show",5,"REF-Resident Referral",95
+369,"2012-10-15","Show",4,"REF-Resident Referral",94
+371,"2012-10-15","Show",4,"WEB-Apt. Guide Internet",94
+373,"2012-10-16","ApplicationCanceled",4,"SIGN-Monument",94
+373,"2012-10-16","Show",4,"SIGN-Monument",94
+373,"2012-10-16","RentOverride",4,"SIGN-Monument",94
+373,"2012-10-16","SubmitApplication",4,"SIGN-Monument",94
+373,"2012-10-16","AssignUnit",NULL,"SIGN-Monument",94
+379,"2012-10-18","Show",4,"SIGN-Monument",94
+379,"2012-10-18","RentOverride",4,"SIGN-Monument",94
+379,"2012-10-18","SubmitApplication",4,"SIGN-Monument",94
+379,"2012-10-18","ApplicationApproved",4,"SIGN-Monument",94
+379,"2012-10-18","LeaseSigned",4,"SIGN-Monument",94
+381,"2012-10-19","Show",4,"REF-Resident Referral",94
+381,"2012-10-20","RentOverride",4,"REF-Resident Referral",94
+381,"2012-10-20","SubmitApplication",4,"REF-Resident Referral",94
+381,"2012-10-22","ApplicationDenied",5,"REF-Resident Referral",94
+384,"2012-10-22","Show",5,"PUB-For Rent",94
+384,"2012-10-22","RentOverride",5,"PUB-For Rent",94
+384,"2012-10-22","SubmitApplication",5,"PUB-For Rent",94
+384,"2012-10-23","ApplicationApproved",5,"PUB-For Rent",94
+384,"2012-10-23","LeaseSigned",5,"PUB-For Rent",94
+386,"2012-10-25","Show",4,"SIGN-Monument",94
+390,"2012-10-27","Show",4,"WEB-Rent.com",94
+390,"2012-10-30","RentOverride",4,"WEB-Rent.com",94
+390,"2012-10-30","SubmitApplication",4,"WEB-Rent.com",94
+390,"2012-11-12","ApplicationDenied",4,"WEB-Rent.com",94
+391,"2012-10-27","Show",4,"WEB-Apt. Guide Internet",96
+392,"2012-11-16","LeaseSigned",5,"WEB-Apartments.Com",94
+392,"2012-11-16","Show",4,"WEB-Apartments.Com",94
+392,"2012-11-16","RentOverride",4,"WEB-Apartments.Com",94
+392,"2012-11-16","SubmitApplication",4,"WEB-Apartments.Com",94
+392,"2012-11-16","ApplicationApproved",5,"WEB-Apartments.Com",94
+393,"2012-10-30","Show",4,"SIGN-Monument",96
+394,"2012-10-30","Show",5,"REF-Neighborhood Resident",96
+394,"2012-11-12","RentOverride",5,"REF-Neighborhood Resident",96
+394,"2012-11-12","SubmitApplication",5,"REF-Neighborhood Resident",96
+394,"2012-11-12","ApplicationApproved",5,"REF-Neighborhood Resident",96
+394,"2012-11-12","LeaseSigned",5,"REF-Neighborhood Resident",96
+395,"2012-10-30","Show",4,"REF-Neighborhood Resident",94
+396,"2012-12-04","Show",4,"SIGN-Monument",96
+398,"2012-10-31","Show",5,"WEB-Apartments.Com",94
+398,"2012-10-31","RentOverride",5,"WEB-Apartments.Com",94
+398,"2012-10-31","SubmitApplication",5,"WEB-Apartments.Com",94
+398,"2012-11-14","ApplicationCanceled",5,"WEB-Apartments.Com",94
+398,"2012-11-14","ApplicationApproved",5,"WEB-Apartments.Com",94
+401,"2012-11-06","Show",5,"WEB-Rent.com",94
+401,"2012-11-06","RentOverride",5,"WEB-Rent.com",94
+401,"2012-11-06","SubmitApplication",5,"WEB-Rent.com",94
+401,"2012-11-06","ApplicationDenied",5,"WEB-Rent.com",94
+402,"2012-11-06","SubmitApplication",4,"PUB-Apartment Guides",94
+402,"2012-11-06","Show",4,"PUB-Apartment Guides",94
+402,"2012-11-06","RentOverride",4,"PUB-Apartment Guides",94
+402,"2012-11-07","ApplicationDenied",5,"PUB-Apartment Guides",94
+405,"2012-11-08","Show",4,"WEB-Google Places",94
+406,"2012-11-08","Show",4,"WEB-For Rent.com",94
+407,"2012-11-08","Show",4,"SIGN-Monument",94
+410,"2012-11-12","Show",4,"REF-Neighborhood Resident",94
+411,"2012-11-15","Show",5,"REF-Neighborhood Resident",94
+411,"2012-11-15","RentOverride",5,"REF-Neighborhood Resident",94
+411,"2012-11-15","SubmitApplication",5,"REF-Neighborhood Resident",94
+411,"2012-11-15","ApplicationApproved",5,"REF-Neighborhood Resident",94
+411,"2012-11-19","LeaseSigned",5,"REF-Neighborhood Resident",94
+412,"2012-11-19","RentOverride",4,"WEB-Rent.com",94
+412,"2012-11-19","SubmitApplication",4,"WEB-Rent.com",94
+412,"2012-11-19","Show",4,"WEB-Rent.com",94
+412,"2012-11-20","ApplicationApproved",4,"WEB-Rent.com",94
+412,"2012-11-20","LeaseSigned",4,"WEB-Rent.com",94
+412,"2012-12-05","AssignUnit",NULL,"WEB-Rent.com",94
+413,"2012-11-19","SubmitApplication",5,"REF-Resident Referral",94
+413,"2012-11-19","Show",5,"REF-Resident Referral",94
+413,"2012-11-19","RentOverride",5,"REF-Resident Referral",94
+413,"2012-11-20","ApplicationApproved",5,"REF-Resident Referral",94
+413,"2012-11-20","LeaseSigned",5,"REF-Resident Referral",94
+413,"2012-11-20","AssignUnit",NULL,"REF-Resident Referral",94
+415,"2012-11-20","Show",4,"REF-Neighborhood Resident",94
+416,"2012-11-20","RentOverride",5,"REF-Neighborhood Resident",95
+416,"2012-11-20","SubmitApplication",5,"REF-Neighborhood Resident",95
+416,"2012-11-20","ApplicationApproved",5,"REF-Neighborhood Resident",95
+416,"2012-11-20","Show",5,"REF-Neighborhood Resident",95
+416,"2012-11-21","LeaseSigned",5,"REF-Neighborhood Resident",95
+417,"2012-11-20","Show",4,"SIGN-Monument",96
+420,"2012-11-24","Show",5,"REF-Ex-Resident",96
+422,"2012-11-27","Show",4,"SIGN-Promotional Banner",96
+423,"2012-11-27","Show",4,"WEB-Apartmentguide.com",95
+426,"2012-11-28","Show",4,"SIGN-Monument",94
+426,"2012-11-28","RentOverride",4,"SIGN-Monument",94
+426,"2012-11-28","SubmitApplication",4,"SIGN-Monument",94
+426,"2012-12-03","ApplicationApproved",4,"SIGN-Monument",94
+426,"2012-12-03","LeaseSigned",4,"SIGN-Monument",94
+429,"2012-11-30","Show",4,"Property Website",96
+430,"2012-11-30","Show",4,"SIGN-Monument",94
+431,"2012-12-01","Show",6,"Property Website",94
+434,"2012-12-03","Email",2,"Portal",96
+435,"2012-12-05","Show",4,"SIGN-Monument",95
+437,"2012-12-06","Show",4,"SIGN-Monument",94
+438,"2012-12-06","Show",4,"WEB-For Rent.com",94
+439,"2012-12-08","Show",4,"WEB-Rent.com",96
+440,"2012-12-08","Show",4,"SIGN-Promotional Banner",94
+440,"2012-12-08","RentOverride",4,"SIGN-Promotional Banner",94
+440,"2012-12-08","SubmitApplication",4,"SIGN-Promotional Banner",94
+440,"2012-12-08","ApplicationDenied",4,"SIGN-Promotional Banner",94
+443,"2012-12-10","Show",4,"WEB-Google Places",94
+444,"2012-12-10","SubmitApplication",2,"Portal",94
+444,"2012-12-10","Email",2,"Portal",94
+444,"2012-12-27","LeaseSigned",5,"Portal",94
+444,"2012-12-27","Show",5,"Portal",94
+444,"2012-12-27","RentOverride",2,"Portal",94
+444,"2012-12-27","AssignUnit",NULL,"Portal",94
+444,"2012-12-27","ApplicationApproved",2,"Portal",94
+445,"2012-12-12","Email",2,"Portal",96
+446,"2012-12-12","Show",4,"WEB-Apartments.Com",95
+447,"2012-12-12","Show",5,"REF-Neighborhood Resident",94
+447,"2012-12-19","RentOverride",5,"REF-Neighborhood Resident",94
+447,"2012-12-19","SubmitApplication",4,"REF-Neighborhood Resident",94
+447,"2012-12-27","LeaseSigned",5,"REF-Neighborhood Resident",94
+447,"2012-12-27","ApplicationApproved",5,"REF-Neighborhood Resident",94
+449,"2012-12-14","Show",5,"Property Website",94
+449,"2012-12-14","RentOverride",5,"Property Website",94
+449,"2012-12-14","SubmitApplication",5,"Property Website",94
+449,"2012-12-17","ApplicationDenied",5,"Property Website",94
+450,"2012-12-14","Show",4,"SIGN-Monument",94
+451,"2012-12-15","Show",5,"WEB-Rent.com",94
+452,"2012-12-15","Show",5,"SIGN-Monument",96
+453,"2012-12-15","Show",5,"REF-Resident Referral",94
+454,"2012-12-15","Show",5,"SIGN-Monument",96
+455,"2012-12-15","Show",5,"SIGN-Promotional Banner",94
+457,"2012-12-17","Show",4,"SIGN-Monument",94
+457,"2012-12-21","RentOverride",4,"SIGN-Monument",94
+457,"2012-12-21","SubmitApplication",4,"SIGN-Monument",94
+457,"2012-12-22","ApplicationDenied",5,"SIGN-Monument",94
+458,"2012-12-17","Show",4,"REF-Resident Referral",95
+459,"2012-12-17","Show",4,"WEB-Rent.com",94
+462,"2012-12-19","Show",4,"REF-Neighborhood Resident",94
+464,"2012-12-19","Show",4,"SIGN-Monument",96
+465,"2012-12-19","Show",4,"SIGN-Monument",96
+466,"2012-12-19","Show",4,"WEB-Apartmentguide.com",94
+467,"2012-12-20","Show",4,"WEB-Apartmentguide.com",94
+469,"2012-12-21","Show",4,"WEB-Apt. Guide Internet",96
+470,"2012-12-22","Show",5,"REF-Ex-Resident",94
+471,"2012-12-22","Show",5,"SIGN-Monument",94
+472,"2012-12-22","Show",5,"SIGN-Monument",95
+475,"2012-12-26","Show",4,"WEB-For Rent Internet",96
+477,"2012-12-26","Show",4,"REF-Neighborhood Resident",94
+477,"2012-12-26","RentOverride",4,"REF-Neighborhood Resident",94
+477,"2012-12-26","SubmitApplication",4,"REF-Neighborhood Resident",94
+477,"2012-12-26","ApplicationApproved",4,"REF-Neighborhood Resident",94
+477,"2012-12-27","LeaseSigned",4,"REF-Neighborhood Resident",94
+478,"2012-12-26","Show",4,"REF-Neighborhood Resident",94
+480,"2012-12-27","Show",4,"REF-Neighborhood Resident",95
+481,"2012-12-28","LeaseSigned",4,"WEB-Rent.com",94
+481,"2012-12-28","Show",4,"WEB-Rent.com",94
+481,"2012-12-28","RentOverride",4,"WEB-Rent.com",94
+481,"2012-12-28","SubmitApplication",4,"WEB-Rent.com",94
+481,"2012-12-28","ApplicationApproved",4,"WEB-Rent.com",94
+482,"2012-12-28","Show",4,"WEB-Apartments.Com",94
+483,"2012-12-28","Show",4,"REF-Neighborhood Resident",94
+483,"2012-12-28","RentOverride",4,"REF-Neighborhood Resident",94
+483,"2012-12-28","SubmitApplication",4,"REF-Neighborhood Resident",94
+483,"2012-12-28","ApplicationApproved",4,"REF-Neighborhood Resident",94
+483,"2013-01-04","LeaseSigned",4,"REF-Neighborhood Resident",94
+485,"2012-12-29","Show",5,"SIGN-Monument",96
+485,"2013-01-02","RentOverride",5,"SIGN-Monument",96
+485,"2013-01-02","SubmitApplication",5,"SIGN-Monument",96
+485,"2013-01-02","ApplicationApproved",5,"SIGN-Monument",96
+485,"2013-01-02","LeaseSigned",5,"SIGN-Monument",96
+486,"2012-12-29","Show",5,"WEB-Google Places",94
+487,"2012-12-29","Show",5,"SIGN-Monument",95
+491,"2013-01-02","Show",4,"WEB-Google Places",94
+492,"2013-01-02","Show",4,"SIGN-Monument",94
+493,"2013-01-02","Show",4,"WEB-Apartments.Com",94
+494,"2013-01-02","Show",4,"REF-Neighborhood Resident",94
+495,"2013-01-02","Show",4,"REF-Neighborhood Resident",95
+496,"2013-01-02","Show",5,"REF-Resident Referral",94
+496,"2013-01-02","RentOverride",5,"REF-Resident Referral",94
+496,"2013-01-02","SubmitApplication",5,"REF-Resident Referral",94
+496,"2013-01-03","ApplicationApproved",5,"REF-Resident Referral",94
+496,"2013-01-03","LeaseSigned",5,"REF-Resident Referral",94
+497,"2013-01-03","Show",6,"REF-Ex-Resident",94
+498,"2013-01-03","RentOverride",4,"REF-Neighborhood Resident",96
+498,"2013-01-03","SubmitApplication",4,"REF-Neighborhood Resident",96
+498,"2013-01-03","Show",4,"REF-Neighborhood Resident",96
+498,"2013-01-04","ApplicationApproved",4,"REF-Neighborhood Resident",96
+498,"2013-01-04","LeaseSigned",4,"REF-Neighborhood Resident",96
+500,"2013-01-04","Show",4,"WEB-Apartmentguide.com",94
+501,"2013-01-05","Show",4,"REF-Neighborhood Resident",94
+503,"2013-01-05","Show",4,"WEB-Apartmentguide.com",95
+506,"2013-01-06","Email",2,"Portal",96
+506,"2013-01-24","RentOverride",2,"Portal",96
+506,"2013-01-24","SubmitApplication",2,"Portal",96
+506,"2013-01-24","ApplicationApproved",5,"Portal",96
+506,"2013-01-24","LeaseSigned",5,"Portal",96
+507,"2013-01-07","SubmitApplication",2,"Portal",96
+507,"2013-01-07","ApplicationCanceled",2,"Portal",96
+507,"2013-01-07","Email",2,"Portal",96
+509,"2013-01-07","Show",4,"REF-Resident Referral",96
+510,"2013-01-07","ApplicationApproved",5,"REF-Ex-Resident",94
+510,"2013-01-07","Show",5,"REF-Ex-Resident",94
+510,"2013-01-07","RentOverride",5,"REF-Ex-Resident",94
+510,"2013-01-07","SubmitApplication",5,"REF-Ex-Resident",94
+510,"2013-01-10","LeaseSigned",5,"REF-Ex-Resident",94
+514,"2013-01-08","Show",5,"WEB-Google Places",94
+515,"2013-01-08","Show",6,"WEB-For Rent.com",95
+515,"2013-01-09","RentOverride",6,"WEB-For Rent.com",95
+515,"2013-01-09","SubmitApplication",5,"WEB-For Rent.com",95
+515,"2013-01-10","ApplicationDenied",6,"WEB-For Rent.com",95
+516,"2013-01-08","Show",5,"SIGN-Monument",95
+517,"2013-01-08","Show",5,"REF-Resident Referral",94
+520,"2013-01-10","Email",2,"Portal",96
+521,"2013-01-10","Show",4,"PUB-Apartment Guides",94
+522,"2013-01-12","Show",4,"WEB-Apartments.Com",94
+523,"2013-01-12","Show",4,"REF-Neighborhood Resident",94
+527,"2013-01-14","Show",5,"REF-Resident Referral",94
+527,"2013-01-14","RentOverride",5,"REF-Resident Referral",94
+527,"2013-01-14","SubmitApplication",5,"REF-Resident Referral",94
+527,"2013-01-14","ApplicationApproved",5,"REF-Resident Referral",94
+527,"2013-01-14","LeaseSigned",5,"REF-Resident Referral",94
+528,"2013-01-14","Show",4,"REF-Neighborhood Resident",94
+530,"2013-01-16","Show",5,"SIGN-Monument",94
+530,"2013-01-16","RentOverride",5,"SIGN-Monument",94
+530,"2013-01-16","SubmitApplication",5,"SIGN-Monument",94
+530,"2013-01-16","ApplicationApproved",5,"SIGN-Monument",94
+530,"2013-01-21","LeaseSigned",5,"SIGN-Monument",94
+531,"2013-01-17","Show",4,"SIGN-Monument",96
+532,"2013-01-17","Show",4,"SIGN-Monument",96
+533,"2013-01-17","Show",4,"REF-Neighborhood Resident",95
+534,"2013-01-18","Show",4,"REF-Resident Referral",94
+535,"2013-01-18","Show",4,"WEB-Google Places",96
+539,"2013-01-19","Show",4,"REF-Resident Referral",95
+540,"2013-01-19","Show",4,"WEB-Google Places",96
+540,"2013-01-30","SubmitApplication",4,"WEB-Google Places",96
+540,"2013-01-30","ApplicationApproved",4,"WEB-Google Places",96
+540,"2013-01-30","RentOverride",4,"WEB-Google Places",96
+540,"2013-01-31","LeaseSigned",4,"WEB-Google Places",96
+541,"2013-01-19","Show",4,"WEB-Rent.com",94
+542,"2013-01-21","Show",5,"SIGN-Monument",94
+542,"2013-01-22","SubmitApplication",5,"SIGN-Monument",95
+542,"2013-01-24","ApplicationApproved",5,"SIGN-Monument",95
+542,"2013-01-24","LeaseSigned",5,"SIGN-Monument",95
+544,"2013-01-22","Show",4,"SIGN-Monument",96
+546,"2013-01-25","Show",5,"SIGN-Monument",94
+546,"2013-01-25","RentOverride",5,"SIGN-Monument",94
+546,"2013-01-25","SubmitApplication",5,"SIGN-Monument",94
+546,"2013-01-28","ApplicationCanceled",5,"SIGN-Monument",94
+547,"2013-01-26","Show",4,"REF-Neighborhood Resident",94
+547,"2013-06-01","RentOverride",4,"REF-Neighborhood Resident",94
+547,"2013-06-01","SubmitApplication",4,"REF-Neighborhood Resident",94
+547,"2013-06-03","ApplicationDenied",5,"REF-Neighborhood Resident",94
+547,"2013-06-04","LeaseSigned",4,"REF-Neighborhood Resident",94
+547,"2013-06-04","AssignUnit",NULL,"REF-Neighborhood Resident",94
+547,"2013-06-04","ReApply",4,"REF-Neighborhood Resident",94
+547,"2013-06-04","ApplicationApproved",4,"REF-Neighborhood Resident",94
+548,"2013-01-26","Show",4,"WEB-Google Places",96
+549,"2013-01-28","ApplicationApproved",5,"SIGN-Monument",94
+549,"2013-01-28","LeaseSigned",5,"SIGN-Monument",94
+549,"2013-01-28","Show",5,"SIGN-Monument",94
+549,"2013-01-28","RentOverride",5,"SIGN-Monument",94
+549,"2013-01-28","SubmitApplication",5,"SIGN-Monument",94
+550,"2013-01-28","Show",4,"WEB-Rent.com",95
+550,"2013-01-31","RentOverride",4,"WEB-Rent.com",95
+550,"2013-01-31","SubmitApplication",4,"WEB-Rent.com",95
+550,"2013-02-01","ApplicationDenied",4,"WEB-Rent.com",95
+551,"2013-01-28","Show",4,"WEB-Google Places",96
+553,"2013-01-30","Show",6,"SIGN-Promotional Banner",94
+554,"2013-01-31","Show",4,"REF-Resident Referral",94
+554,"2013-01-31","SubmitApplication",4,"REF-Resident Referral",94
+554,"2013-01-31","ApplicationApproved",4,"REF-Resident Referral",94
+554,"2013-01-31","LeaseSigned",4,"REF-Resident Referral",94
+557,"2013-02-01","Show",4,"SIGN-Monument",94
+558,"2013-02-01","Show",4,"PUB-Apartment Guides",96
+560,"2013-02-02","Show",5,"PUB-Apartment Guides",96
+561,"2013-02-02","Show",5,"SIGN-Monument",96
+563,"2013-02-04","Show",4,"WEB-Rent.com",94
+565,"2013-02-05","Show",4,"WEB-Apartments.Com",94
+565,"2013-04-15","SubmitApplication",4,"WEB-Apartments.Com",94
+565,"2013-04-22","ApplicationApproved",4,"WEB-Apartments.Com",94
+565,"2013-04-22","LeaseSigned",4,"WEB-Apartments.Com",94
+566,"2013-02-06","Show",4,"WEB-Rent.com",95
+568,"2013-02-08","Show",4,"SIGN-Monument",96
+569,"2013-02-08","Show",6,"Property Website",94
+571,"2013-02-09","Show",4,"WEB-Apartmentfinder.com",96
+572,"2013-02-09","Show",4,"WEB-Google Places",94
+577,"2013-02-12","Show",4,"WEB-Rent.com",94
+583,"2013-02-14","Show",4,"REF-Neighborhood Resident",94
+583,"2013-02-28","RentOverride",4,"REF-Neighborhood Resident",94
+583,"2013-02-28","SubmitApplication",4,"REF-Neighborhood Resident",94
+583,"2013-02-28","ApplicationApproved",4,"REF-Neighborhood Resident",94
+583,"2013-03-06","LeaseSigned",4,"REF-Neighborhood Resident",94
+584,"2013-02-15","Show",4,"SIGN-Monument",94
+585,"2013-02-15","Show",4,"PUB-Apartment Guides",94
+588,"2013-02-16","Show",5,"WEB-Rent.com",94
+593,"2013-02-19","Show",4,"REF-Neighborhood Resident",94
+595,"2013-02-20","Show",4,"WEB-Apartments.Com",96
+598,"2013-02-21","Show",4,"WEB-Apartmentguide.com",96
+602,"2013-02-22","Show",4,"SIGN-Monument",96
+603,"2013-02-23","Show",4,"SIGN-Monument",94
+604,"2013-02-23","Show",4,"REF-Resident Referral",96
+604,"2013-03-01","RentOverride",4,"REF-Resident Referral",96
+604,"2013-03-01","SubmitApplication",4,"REF-Resident Referral",96
+604,"2013-03-01","ApplicationApproved",4,"REF-Resident Referral",96
+604,"2013-03-02","LeaseSigned",4,"REF-Resident Referral",96
+605,"2013-02-23","Show",4,"SIGN-Monument",94
+605,"2013-02-28","RentOverride",4,"SIGN-Monument",94
+605,"2013-02-28","SubmitApplication",4,"SIGN-Monument",94
+605,"2013-02-28","ApplicationDenied",4,"SIGN-Monument",94
+608,"2013-02-25","Show",4,"WEB-Apartmentguide.com",96
+609,"2013-02-26","Show",5,"WEB-Apartmentguide.com",96
+610,"2013-02-28","Show",4,"REF-Resident Referral",94
+611,"2013-03-01","Show",4,"REF-Neighborhood Resident",94
+611,"2013-03-01","RentOverride",4,"REF-Neighborhood Resident",94
+611,"2013-03-01","SubmitApplication",4,"REF-Neighborhood Resident",94
+611,"2013-03-04","ApplicationDenied",4,"REF-Neighborhood Resident",94
+612,"2013-03-04","Show",4,"SIGN-Promotional Banner",95
+612,"2013-03-04","SubmitApplication",4,"SIGN-Promotional Banner",95
+612,"2013-03-06","ApplicationDenied",4,"SIGN-Promotional Banner",95
+613,"2013-03-06","Show",4,"WEB-Rent.com",96
+614,"2013-03-07","Show",4,"REF-Neighborhood Resident",95
+614,"2013-03-08","RentOverride",4,"REF-Neighborhood Resident",95
+614,"2013-03-08","SubmitApplication",4,"REF-Neighborhood Resident",95
+614,"2013-03-13","ApplicationCanceled",4,"REF-Neighborhood Resident",95
+615,"2013-03-08","Show",4,"REF-Neighborhood Resident",95
+616,"2013-03-08","Show",4,"SIGN-Monument",94
+617,"2013-03-08","Show",4,"PUB-Apartment Guides",96
+618,"2013-03-08","Show",4,"WEB-Apartmentguide.com",96
+619,"2013-03-09","Show",5,"WEB-Apartmentguide.com",94
+620,"2013-03-09","Show",5,"WEB-Apartments.Com",94
+621,"2013-03-09","Show",5,"SIGN-Monument",94
+622,"2013-03-09","Show",5,"Property Website",96
+623,"2013-03-11","Show",5,"SIGN-Monument",95
+623,"2013-03-11","RentOverride",5,"SIGN-Monument",95
+623,"2013-03-12","SubmitApplication",5,"SIGN-Monument",95
+623,"2013-03-13","ApplicationApproved",5,"SIGN-Monument",95
+623,"2013-03-13","LeaseSigned",5,"SIGN-Monument",95
+624,"2013-03-12","Email",2,"Portal",96
+625,"2013-03-12","Show",4,"SIGN-Monument",96
+626,"2013-03-12","Show",4,"WEB-Google Places",96
+627,"2013-03-13","Show",4,"REF-Neighborhood Resident",96
+629,"2013-03-13","Show",4,"SIGN-Monument",95
+630,"2013-03-13","Show",4,"REF-Neighborhood Resident",94
+631,"2013-03-14","SubmitApplication",2,"Portal",96
+631,"2013-03-14","ApplicationDenied",2,"Portal",96
+631,"2013-03-14","Email",2,"Portal",96
+632,"2013-03-14","Show",4,"WEB-For Rent.com",94
+633,"2013-03-14","Show",5,"SIGN-Monument",96
+634,"2013-03-15","Show",4,"PUB-Apartment Finder",94
+636,"2013-03-16","Show",4,"SIGN-Monument",94
+637,"2013-03-16","Show",9,"SIGN-Promotional Banner",96
+638,"2013-03-16","Show",4,"WEB-Rent.com",94
+639,"2013-03-16","Show",4,"SIGN-Monument",96
+641,"2013-03-19","Show",4,"WEB-Google Places",94
+642,"2013-03-19","SubmitApplication",2,"Portal",95
+642,"2013-03-19","Email",2,"Portal",95
+642,"2013-03-20","ApplicationApproved",4,"Portal",95
+642,"2013-04-01","LeaseSigned",2,"Portal",95
+643,"2013-03-20","Show",4,"WEB-Google Places",96
+643,"2013-03-20","RentOverride",4,"WEB-Google Places",96
+643,"2013-03-20","SubmitApplication",4,"WEB-Google Places",96
+643,"2013-03-20","ApplicationApproved",4,"WEB-Google Places",96
+643,"2013-03-20","LeaseSigned",4,"WEB-Google Places",96
+644,"2013-03-21","Show",4,"SIGN-Monument",95
+645,"2013-03-21","Show",4,"REF-Resident Referral",94
+646,"2013-03-23","Show",4,"WEB-Google Places",94
+647,"2013-03-23","Show",4,"REF-Neighborhood Resident",94
+648,"2013-03-25","Show",4,"WEB-Google Places",94
+649,"2013-03-28","Show",4,"Property Website",94
+650,"2013-03-29","Show",4,"WEB-For Rent.com",95
+651,"2013-03-30","Show",5,"SIGN-Monument",94
+652,"2013-03-30","Show",5,"SIGN-Monument",94
+653,"2013-03-30","Show",5,"PUB-For Rent",94
+654,"2013-03-30","Show",5,"Property Website",94
+655,"2013-03-30","Show",5,"PUB-For Rent",94
+656,"2013-03-30","Show",5,"REF-Resident Referral",94
+657,"2013-03-30","Show",5,"WEB-Craigslist",95
+657,"2013-03-30","SubmitApplication",5,"WEB-Craigslist",95
+657,"2013-03-30","ApplicationDenied",5,"WEB-Craigslist",95
+658,"2013-03-30","Show",5,"WEB-Rent.com",94
+659,"2013-03-30","Show",5,"SIGN-Monument",94
+660,"2013-03-30","Show",5,"SIGN-Monument",94
+661,"2013-03-30","Show",5,"WEB-Apartments.Com",94
+662,"2013-03-30","Show",5,"PUB-For Rent",94
+663,"2013-04-01","Show",4,"SIGN-Monument",95
+663,"2013-04-03","LeaseSigned",4,"SIGN-Monument",95
+663,"2013-04-03","RentOverride",4,"SIGN-Monument",95
+663,"2013-04-03","SubmitApplication",4,"SIGN-Monument",95
+663,"2013-04-03","ApplicationApproved",4,"SIGN-Monument",95
+664,"2013-04-02","Show",4,"SIGN-Monument",94
+665,"2013-04-03","Show",4,"REF-Resident Referral",94
+668,"2013-04-05","Show",5,"WEB-Rent.com",94
+668,"2013-04-05","RentOverride",5,"WEB-Rent.com",94
+668,"2013-04-05","SubmitApplication",5,"WEB-Rent.com",94
+668,"2013-04-08","ApplicationApproved",5,"WEB-Rent.com",94
+668,"2013-04-17","LeaseSigned",5,"WEB-Rent.com",94
+669,"2013-04-06","Show",5,"Property Website",94
+670,"2013-04-06","Show",5,"SIGN-Monument",94
+671,"2013-04-08","Show",4,"SIGN-Monument",94
+672,"2013-04-09","Show",4,"WEB-Rent.com",94
+673,"2013-04-09","Show",4,"SIGN-Monument",94
+674,"2013-04-09","Show",5,"WEB-Rent.com",94
+674,"2013-04-09","RentOverride",5,"WEB-Rent.com",94
+674,"2013-04-09","SubmitApplication",5,"WEB-Rent.com",94
+674,"2013-04-12","ApplicationApproved",5,"WEB-Rent.com",94
+674,"2013-04-12","LeaseSigned",5,"WEB-Rent.com",94
+675,"2013-04-09","Show",4,"WEB-For Rent.com",94
+676,"2013-04-10","Email",2,"Portal",94
+677,"2013-04-10","Show",4,"REF-Neighborhood Resident",94
+677,"2013-04-10","RentOverride",4,"REF-Neighborhood Resident",94
+677,"2013-04-10","SubmitApplication",4,"REF-Neighborhood Resident",94
+677,"2013-04-10","ApplicationApproved",4,"REF-Neighborhood Resident",94
+677,"2013-04-10","LeaseSigned",4,"REF-Neighborhood Resident",94
+677,"2013-04-15","AssignUnit",NULL,"REF-Neighborhood Resident",94
+678,"2013-04-11","Show",4,"REF-Neighborhood Resident",94
+679,"2013-04-12","Show",4,"WEB-Apt. Guide Internet",94
+679,"2013-05-01","Call",4,"WEB-Apt. Guide Internet",94
+679,"2013-05-02","RentOverride",4,"WEB-Apt. Guide Internet",94
+679,"2013-05-02","SubmitApplication",4,"WEB-Apt. Guide Internet",94
+679,"2013-05-03","LeaseSigned",4,"WEB-Apt. Guide Internet",94
+679,"2013-05-03","ApplicationApproved",4,"WEB-Apt. Guide Internet",94
+680,"2013-04-13","Show",4,"WEB-Apartments.Com",94
+681,"2013-04-15","Show",6,"AD - Google Places",94
+682,"2013-04-15","Show",4,"WEB-Google Places",94
+683,"2013-04-15","Show",4,"SIGN-Monument",94
+683,"2013-04-19","SubmitApplication",4,"SIGN-Monument",94
+683,"2013-04-22","LeaseSigned",4,"SIGN-Monument",94
+683,"2013-04-22","ApplicationApproved",4,"SIGN-Monument",94
+684,"2013-04-16","Show",6,"REF-Ex-Resident",94
+685,"2013-04-17","Show",5,"SIGN-Monument",94
+686,"2013-04-17","Show",5,"WEB-For Rent.com",94
+687,"2013-04-17","Show",5,"WEB-For Rent.com",94
+688,"2013-04-17","Show",5,"WEB-For Rent.com",94
+689,"2013-04-17","Show",4,"REF-Resident Referral",94
+690,"2013-04-18","Show",4,"SIGN-Monument",96
+691,"2013-04-18","Show",5,"SIGN-Monument",94
+692,"2013-04-18","Show",4,"REF-Resident Referral",96
+693,"2013-04-19","Show",5,"WEB-For Rent.com",94
+694,"2013-04-19","Show",5,"SIGN-Monument",94
+695,"2013-04-20","Show",4,"REF-Resident Referral",94
+696,"2013-04-20","Show",4,"WEB-For Rent.com",96
+697,"2013-04-20","Show",4,"SIGN-Monument",94
+698,"2013-04-20","Show",4,"WEB-Rent.com",94
+698,"2013-04-22","LeaseSigned",4,"WEB-Rent.com",94
+698,"2013-04-22","RentOverride",4,"WEB-Rent.com",94
+698,"2013-04-22","SubmitApplication",4,"WEB-Rent.com",94
+698,"2013-04-22","ApplicationApproved",4,"WEB-Rent.com",94
+698,"2013-05-06","AssignUnit",NULL,"WEB-Rent.com",94
+699,"2013-04-20","Show",4,"WEB-Rent.com",94
+701,"2013-04-22","Show",6,"Property Website",94
+704,"2013-04-22","SubmitApplication",6,"REF-Resident Referral",94
+704,"2013-04-22","ApplicationDenied",6,"REF-Resident Referral",94
+704,"2013-04-22","Show",6,"REF-Resident Referral",94
+704,"2013-04-22","RentOverride",6,"REF-Resident Referral",94
+705,"2013-04-23","Show",6,"REF-Resident Referral",94
+705,"2013-04-23","RentOverride",6,"REF-Resident Referral",94
+705,"2013-04-23","SubmitApplication",6,"REF-Resident Referral",94
+705,"2013-04-23","ApplicationApproved",6,"REF-Resident Referral",94
+705,"2013-04-23","LeaseSigned",6,"REF-Resident Referral",94
+706,"2013-04-28","Appointment",6,"AD - Google Places",94
+707,"2013-04-23","Show",5,"REF-Ex-Resident",94
+707,"2013-04-23","RentOverride",5,"REF-Ex-Resident",94
+707,"2013-04-28","SubmitApplication",5,"REF-Ex-Resident",94
+707,"2013-04-30","ApplicationApproved",5,"REF-Ex-Resident",94
+707,"2013-04-30","LeaseSigned",5,"REF-Ex-Resident",94
+708,"2013-04-23","Show",5,"Property Website",94
+708,"2013-04-30","RentOverride",5,"Property Website",94
+708,"2013-04-30","SubmitApplication",5,"Property Website",94
+708,"2013-04-30","ApplicationApproved",5,"Property Website",94
+708,"2013-04-30","LeaseSigned",5,"Property Website",94
+710,"2013-04-25","Show",4,"Property Website",96
+712,"2013-04-25","Show",4,"REF-Neighborhood Resident",94
+714,"2013-04-25","Show",4,"WEB-Google Places",94
+714,"2013-04-27","RentOverride",4,"WEB-Google Places",94
+714,"2013-04-27","SubmitApplication",5,"WEB-Google Places",94
+714,"2013-04-30","ApplicationApproved",4,"WEB-Google Places",94
+714,"2013-04-30","LeaseSigned",4,"WEB-Google Places",94
+715,"2013-04-27","Appointment",6,"WEB-Apartmentguide.com",94
+718,"2013-04-26","Show",4,"REF-Resident Referral",96
+719,"2013-04-26","Show",4,"REF-Neighborhood Resident",94
+720,"2013-04-26","Show",4,"REF-Resident Referral",94
+720,"2013-04-26","RentOverride",4,"REF-Resident Referral",94
+720,"2013-04-28","SubmitApplication",5,"REF-Resident Referral",94
+720,"2013-04-29","ApplicationDenied",4,"REF-Resident Referral",94
+721,"2013-04-26","Email",2,"Portal",94
+722,"2013-04-27","Show",5,"WEB-Rent.com",94
+722,"2013-04-27","RentOverride",5,"WEB-Rent.com",94
+722,"2013-04-27","SubmitApplication",5,"WEB-Rent.com",94
+722,"2013-04-30","ApplicationApproved",5,"WEB-Rent.com",94
+722,"2013-04-30","LeaseSigned",5,"WEB-Rent.com",94
+723,"2013-04-27","Show",5,"Property Website",94
+724,"2013-04-27","Show",5,"Property Website",94
+725,"2013-04-27","Show",5,"WEB-Rent.com",94
+726,"2013-04-28","Show",5,"WEB-Rent.com",94
+726,"2013-04-30","LeaseSigned",5,"WEB-Rent.com",94
+726,"2013-04-30","RentOverride",5,"WEB-Rent.com",94
+726,"2013-04-30","SubmitApplication",5,"WEB-Rent.com",94
+726,"2013-04-30","ApplicationApproved",5,"WEB-Rent.com",94
+728,"2013-05-06","Appointment",6,"AD-Apartment Guide",94
+731,"2013-04-29","Show",4,"PUB-For Rent",94
+733,"2013-04-29","Show",4,"REF-Neighborhood Resident",96
+735,"2013-04-29","Show",4,"REF-Ex-Resident",94
+736,"2013-04-29","Show",4,"REF-Neighborhood Resident",94
+737,"2013-04-30","Show",4,"WEB-Apartmentguide.com",96
+738,"2013-04-30","Show",4,"REF-Resident Referral",96
+738,"2013-05-02","RentOverride",4,"REF-Resident Referral",96
+738,"2013-05-02","SubmitApplication",4,"REF-Resident Referral",96
+738,"2013-05-02","ApplicationApproved",4,"REF-Resident Referral",96
+738,"2013-05-02","LeaseSigned",4,"REF-Resident Referral",96
+740,"2013-05-11","Appointment",4,"WEB-Craigslist",96
+741,"2013-04-30","Show",6,"SIGN-Monument",94
+742,"2013-04-30","Show",4,"WEB-Rent.com",94
+743,"2013-04-30","Show",4,"REF-Neighborhood Resident",96
+743,"2013-04-30","SubmitApplication",4,"REF-Neighborhood Resident",96
+743,"2013-05-01","ApplicationApproved",4,"REF-Neighborhood Resident",96
+743,"2013-05-01","LeaseSigned",4,"REF-Neighborhood Resident",96
+744,"2013-05-01","Show",4,"REF-Resident Referral",94
+745,"2013-05-01","Show",4,"WEB-Google Places",94
+746,"2013-05-06","Appointment",6,"Property Website",94
+748,"2013-05-02","Show",4,"REF-Neighborhood Resident",94
+749,"2013-05-02","Show",5,"WEB-Google Places",95
+749,"2013-05-02","SubmitApplication",5,"WEB-Google Places",95
+749,"2013-05-03","ApplicationDenied",5,"WEB-Google Places",95
+750,"2013-05-02","Show",4,"SIGN-Monument",94
+750,"2013-05-03","RentOverride",4,"SIGN-Monument",94
+750,"2013-05-03","SubmitApplication",4,"SIGN-Monument",94
+750,"2013-05-03","ApplicationDenied",4,"SIGN-Monument",94
+752,"2013-05-02","Show",4,"WEB-Craigslist",94
+752,"2013-05-03","SubmitApplication",4,"WEB-Craigslist",94
+752,"2013-05-07","ApplicationApproved",4,"WEB-Craigslist",94
+752,"2013-05-07","LeaseSigned",4,"WEB-Craigslist",94
+753,"2013-05-02","Show",6,"REF-Resident Referral",94
+755,"2013-05-02","Show",4,"WEB-Google Places",94
+756,"2013-05-03","Show",4,"WEB-Rent.com",94
+757,"2013-05-04","Appointment",4,"SIGN-Monument",96
+758,"2013-05-03","Show",4,"Property Website",94
+758,"2013-05-09","RentOverride",4,"Property Website",94
+758,"2013-05-09","SubmitApplication",4,"Property Website",94
+758,"2013-05-16","ApplicationApproved",4,"Property Website",94
+758,"2013-05-16","LeaseSigned",4,"Property Website",94
+759,"2013-05-03","Show",4,"WEB-Google Places",96
+763,"2013-05-04","SubmitApplication",6,"SIGN-Monument",94
+763,"2013-05-04","ApplicationApproved",6,"SIGN-Monument",94
+763,"2013-05-04","LeaseSigned",6,"SIGN-Monument",94
+763,"2013-05-04","Show",6,"SIGN-Monument",94
+763,"2013-06-12","RentOverride",6,"SIGN-Monument",94
+763,"2013-06-12","AssignUnit",NULL,"SIGN-Monument",94
+763,"2013-06-12","ReApply",4,"SIGN-Monument",94
+764,"2013-05-04","Show",6,"WEB-Apartmentguide.com",94
+765,"2013-05-04","Appointment",2,"Portal",94
+765,"2013-05-04","Email",2,"Portal",94
+768,"2013-05-05","Show",4,"AD - Google Places",94
+768,"2013-05-05","SubmitApplication",4,"AD - Google Places",94
+768,"2013-05-08","ApplicationApproved",4,"AD - Google Places",94
+768,"2013-05-08","LeaseSigned",4,"AD - Google Places",94
+769,"2013-05-06","Email",2,"Portal",94
+769,"2013-05-07","Show",2,"Portal",94
+769,"2013-05-07","RentOverride",2,"Portal",94
+769,"2013-05-07","SubmitApplication",2,"Portal",94
+769,"2013-05-09","ApplicationCanceled",5,"Portal",94
+770,"2013-05-06","RentOverride",5,"SIGN-Monument",94
+770,"2013-05-06","SubmitApplication",5,"SIGN-Monument",94
+770,"2013-05-06","Show",5,"SIGN-Monument",94
+770,"2013-05-07","ApplicationApproved",5,"SIGN-Monument",94
+770,"2013-05-07","LeaseSigned",5,"SIGN-Monument",94
+771,"2013-05-06","SubmitApplication",5,"Property Website",94
+771,"2013-05-06","Show",5,"Property Website",94
+771,"2013-05-06","RentOverride",5,"Property Website",94
+771,"2013-05-07","ApplicationApproved",5,"Property Website",94
+771,"2013-05-07","LeaseSigned",5,"Property Website",94
+772,"2013-05-06","Show",5,"SIGN-Monument",94
+773,"2013-05-06","Show",5,"REF-Resident Referral",94
+774,"2013-05-06","Show",5,"REF-Resident Referral",94
+775,"2013-05-06","Show",5,"REF-Resident Referral",94
+776,"2013-05-06","Show",5,"Property Website",94
+777,"2013-05-06","Show",5,"SIGN-Monument",94
+778,"2013-05-06","Show",5,"WEB-For Rent Internet",94
+778,"2013-05-11","SubmitApplication",5,"WEB-For Rent Internet",94
+778,"2013-05-15","ApplicationApproved",5,"WEB-For Rent Internet",94
+778,"2013-05-16","LeaseSigned",5,"WEB-For Rent Internet",94
+779,"2013-05-06","Show",5,"SIGN-Monument",94
+779,"2013-05-07","RentOverride",5,"SIGN-Monument",94
+779,"2013-05-07","SubmitApplication",5,"SIGN-Monument",94
+779,"2013-05-07","ApplicationDenied",5,"SIGN-Monument",94
+780,"2013-05-06","Show",5,"REF-Neighborhood Resident",94
+781,"2013-05-06","Show",5,"PUB-For Rent",94
+782,"2013-05-07","Email",2,"Portal",94
+782,"2013-05-09","CanceledGuest",2,"Portal",94
+783,"2013-05-08","Show",4,"WEB-Google Places",94
+784,"2013-05-08","Show",4,"REF-Neighborhood Resident",94
+785,"2013-05-08","ApplicationApproved",5,"Property Website",94
+785,"2013-05-08","LeaseSigned",5,"Property Website",94
+785,"2013-05-08","Show",5,"Property Website",94
+785,"2013-05-08","RentOverride",5,"Property Website",94
+785,"2013-05-08","SubmitApplication",5,"Property Website",94
+786,"2013-05-08","Show",4,"WEB-Craigslist",94
+787,"2013-05-08","Show",5,"SIGN-Promotional Banner",94
+788,"2013-05-08","Show",4,"WEB-Rent.com",94
+789,"2013-05-11","Appointment",4,"Property Website",94
+792,"2013-05-09","SubmitApplication",2,"Portal",94
+792,"2013-05-09","Email",2,"Portal",94
+792,"2013-05-13","ApplicationApproved",5,"Portal",94
+792,"2013-05-17","LeaseSigned",2,"Portal",94
+793,"2013-05-09","Show",4,"REF-Neighborhood Resident",94
+794,"2013-05-09","Show",4,"WEB-Rent.com",96
+795,"2013-05-10","Show",5,"PUB-For Rent",94
+796,"2013-05-10","Show",5,"AD-Apartment Guide",94
+797,"2013-05-10","Show",5,"WEB-Rent.com",94
+798,"2013-05-10","Show",5,"Property Website",94
+800,"2013-05-11","Show",4,"REF-Neighborhood Resident",94
+801,"2013-05-11","Show",4,"WEB-Google Places",94
+802,"2013-05-11","Show",4,"WEB-Google Places",94
+803,"2013-05-11","Show",4,"REF-Neighborhood Resident",94
+804,"2013-05-12","Show",4,"WEB-Google Places",94
+805,"2013-05-12","Show",4,"WEB-Google Places",94
+805,"2013-06-26","RentOverride",4,"WEB-Google Places",94
+805,"2013-06-28","SubmitApplication",4,"WEB-Google Places",94
+805,"2013-06-28","ApplicationApproved",4,"WEB-Google Places",94
+805,"2013-06-28","LeaseSigned",4,"WEB-Google Places",94
+806,"2013-05-13","Show",4,"REF-Neighborhood Resident",94
+807,"2013-05-16","Show",4,"WEB-For Rent.com",96
+808,"2013-05-13","Show",4,"REF-Neighborhood Resident",95
+809,"2013-05-14","ApplicationApproved",5,"WEB-Rent.com",94
+809,"2013-05-14","Show",5,"WEB-Rent.com",94
+809,"2013-05-14","RentOverride",5,"WEB-Rent.com",94
+809,"2013-05-14","LeaseSigned",5,"WEB-Rent.com",94
+809,"2013-05-14","SubmitApplication",5,"WEB-Rent.com",94
+811,"2013-05-14","Show",6,"SIGN-Monument",94
+811,"2013-05-14","Appointment",6,"SIGN-Monument",94
+812,"2013-05-15","Show",4,"WEB-Craigslist",94
+813,"2013-05-17","Appointment",4,"Property Website",95
+814,"2013-05-18","Show",4,"WEB-Apartmentguide.com",94
+815,"2013-05-15","Show",4,"WEB-Google Places",94
+816,"2013-05-16","Show",4,"Property Website",95
+817,"2013-05-16","Show",4,"WEB-Apartmentguide.com",94
+818,"2013-05-17","Show",5,"SIGN-Promotional Banner",95
+818,"2013-05-17","RentOverride",5,"SIGN-Promotional Banner",95
+818,"2013-05-17","SubmitApplication",5,"SIGN-Promotional Banner",95
+818,"2013-05-17","ApplicationApproved",5,"SIGN-Promotional Banner",95
+818,"2013-05-17","LeaseSigned",5,"SIGN-Promotional Banner",95
+819,"2013-05-18","Show",4,"SIGN-Monument",96
+823,"2013-05-20","Show",4,"WEB-Google Places",96
+824,"2013-05-20","SubmitApplication",2,"Portal",94
+824,"2013-05-20","Email",2,"Portal",94
+824,"2013-05-24","ApplicationCanceled",2,"Portal",94
+825,"2013-05-20","Show",4,"SIGN-Monument",96
+826,"2013-05-26","Appointment",5,"WEB-Rent.com",96
+827,"2013-05-21","Show",6,"SIGN-Monument",94
+828,"2013-05-21","Show",6,"SIGN-Promotional Banner",94
+828,"2013-05-21","SubmitApplication",6,"SIGN-Promotional Banner",94
+828,"2013-05-22","ApplicationDenied",6,"SIGN-Promotional Banner",94
+830,"2013-05-25","Appointment",6,"SIGN-Monument",94
+831,"2013-05-24","RentOverride",4,"SIGN-Promotional Banner",94
+831,"2013-05-24","SubmitApplication",6,"SIGN-Promotional Banner",94
+831,"2013-05-24","ApplicationDenied",6,"SIGN-Promotional Banner",94
+831,"2013-05-24","Appointment",6,"SIGN-Promotional Banner",94
+831,"2013-05-24","Show",4,"SIGN-Promotional Banner",94
+832,"2013-06-11","Appointment",6,"WEB-Apt. Guide Internet",94
+832,"2013-06-11","Show",4,"WEB-Apt. Guide Internet",94
+833,"2013-05-22","Show",4,"WEB-For Rent.com",94
+835,"2013-05-23","Show",4,"Google",94
+835,"2013-05-23","RentOverride",4,"Google",94
+835,"2013-05-24","SubmitApplication",4,"Google",94
+835,"2013-05-24","ApplicationApproved",4,"Google",94
+835,"2013-05-24","LeaseSigned",4,"Google",94
+836,"2013-05-23","RentOverride",4,"REF-Neighborhood Resident",94
+836,"2013-05-23","Show",4,"REF-Neighborhood Resident",94
+836,"2013-05-24","SubmitApplication",4,"REF-Neighborhood Resident",94
+836,"2013-05-24","ApplicationApproved",4,"REF-Neighborhood Resident",94
+836,"2013-05-24","LeaseSigned",4,"REF-Neighborhood Resident",94
+837,"2013-05-23","Show",4,"REF-Neighborhood Resident",94
+837,"2013-05-23","RentOverride",4,"REF-Neighborhood Resident",94
+837,"2013-05-24","ApplicationApproved",4,"REF-Neighborhood Resident",94
+837,"2013-05-24","LeaseSigned",4,"REF-Neighborhood Resident",94
+837,"2013-05-24","SubmitApplication",4,"REF-Neighborhood Resident",94
+838,"2013-05-23","Show",4,"REF-Neighborhood Resident",94
+838,"2013-05-24","SubmitApplication",4,"REF-Neighborhood Resident",94
+838,"2013-05-24","ApplicationApproved",4,"REF-Neighborhood Resident",94
+838,"2013-05-24","LeaseSigned",4,"REF-Neighborhood Resident",94
+841,"2013-05-24","Show",4,"WEB-Google Places",96
+842,"2013-05-24","Show",4,"WEB-Google Places",94
+842,"2013-05-25","SubmitApplication",4,"WEB-Google Places",94
+842,"2013-05-25","ApplicationDenied",4,"WEB-Google Places",94
+843,"2013-05-24","Show",4,"REF-Neighborhood Resident",94
+843,"2013-05-28","LeaseSigned",4,"REF-Neighborhood Resident",94
+843,"2013-05-28","SubmitApplication",4,"REF-Neighborhood Resident",94
+843,"2013-05-28","ApplicationApproved",4,"REF-Neighborhood Resident",94
+844,"2013-05-25","Show",4,"WEB-Google Places",94
+848,"2013-05-28","Show",4,"WEB-Apartments.Com",94
+850,"2013-05-28","Show",4,"SIGN-Monument",94
+851,"2013-05-28","Show",4,"WEB-Google Places",94
+853,"2013-05-29","Show",4,"SIGN-Promotional Banner",94
+854,"2013-05-29","Show",4,"Referral - Other",96
+856,"2013-05-29","Show",4,"WEB-Google Places",96
+857,"2013-05-30","Show",5,"WEB-Rent.com",94
+858,"2013-05-31","Show",4,"REF-Neighborhood Resident",94
+859,"2013-05-31","Show",5,"WEB-Rent.com",94
+860,"2013-06-01","Show",4,"WEB-Google Places",96
+860,"2013-06-03","RentOverride",4,"WEB-Google Places",96
+860,"2013-06-03","SubmitApplication",4,"WEB-Google Places",96
+860,"2013-06-03","ApplicationApproved",4,"WEB-Google Places",96
+860,"2013-06-04","LeaseSigned",4,"WEB-Google Places",96
+861,"2013-06-03","Show",4,"Rent.com",94
+862,"2013-06-03","Show",4,"REF-Resident Referral",94
+863,"2013-06-04","Show",6,"SIGN-Monument",94
+864,"2013-06-06","Show",4,"REF-Resident Referral",94
+866,"2013-06-07","Show",5,"WEB-Google Places",96
+866,"2013-06-07","RentOverride",5,"WEB-Google Places",96
+866,"2013-06-07","SubmitApplication",5,"WEB-Google Places",96
+866,"2013-06-07","ApplicationApproved",5,"WEB-Google Places",96
+866,"2013-06-07","LeaseSigned",5,"WEB-Google Places",96
+867,"2013-06-08","Show",5,"WEB-For Rent Internet",94
+868,"2013-06-08","Show",5,"WEB-For Rent.com",94
+869,"2013-06-08","Show",5,"Google",94
+870,"2013-06-11","Show",4,"WEB-Craigslist",94
+871,"2013-06-11","Show",4,"Referral - Resident",94
+872,"2013-06-12","Show",4,"SIGN-Promotional Banner",94
+873,"2013-06-12","ApplicationCanceled",2,"Portal",96
+873,"2013-06-12","Email",2,"Portal",96
+873,"2013-06-12","SubmitApplication",2,"Portal",96
+874,"2013-06-12","Email",2,"Portal",94
+874,"2013-06-14","Show",2,"Portal",94
+875,"2013-06-13","ApplicationApproved",4,"Transfer",96
+875,"2013-06-13","LeaseSigned",4,"Transfer",96
+875,"2013-06-13","Show",4,"Transfer",96
+875,"2013-06-13","SubmitApplication",4,"Transfer",96
+876,"2013-06-13","Show",4,"WEB-Rent.com",94
+877,"2013-06-14","Show",4,"REF-Neighborhood Resident",94
+877,"2013-06-21","RentOverride",4,"REF-Neighborhood Resident",94
+877,"2013-06-21","SubmitApplication",4,"REF-Neighborhood Resident",94
+877,"2013-06-24","ApplicationApproved",4,"REF-Neighborhood Resident",94
+877,"2013-06-24","LeaseSigned",4,"REF-Neighborhood Resident",94
+878,"2013-06-15","Show",4,"WEB-Google Places",94
+879,"2013-06-15","Show",4,"WEB-Google Places",94
+880,"2013-06-15","Show",4,"REF-Neighborhood Resident",94
+881,"2013-06-15","Show",4,"WEB-Google Places",94
+882,"2013-06-15","Show",4,"SIGN-Monument",94
+882,"2013-06-21","RentOverride",4,"SIGN-Monument",94
+882,"2013-06-21","SubmitApplication",4,"SIGN-Monument",94
+882,"2013-06-21","ApplicationApproved",4,"SIGN-Monument",94
+882,"2013-06-24","LeaseSigned",4,"SIGN-Monument",94
+883,"2013-06-15","Show",4,"WEB-For Rent.com",94
+884,"2013-06-15","Show",4,"Referral - Other",94
+885,"2013-06-17","Show",4,"WEB-Rent.com",94
+886,"2013-06-18","Appointment",6,"Property Website",94
+887,"2013-06-19","Show",5,"SIGN-Monument",94
+888,"2013-06-19","Show",5,"Google",94
+889,"2013-06-19","Show",5,"Google",94
+890,"2013-06-19","Show",5,"Google",94
+891,"2013-06-20","Show",4,"SIGN-Monument",94
+892,"2013-06-21","Show",5,"REF-Resident Referral",94
+892,"2013-06-21","RentOverride",5,"REF-Resident Referral",94
+892,"2013-06-21","SubmitApplication",5,"REF-Resident Referral",94
+892,"2013-06-22","ApplicationApproved",5,"REF-Resident Referral",94
+892,"2013-06-24","LeaseSigned",5,"REF-Resident Referral",94
+893,"2013-06-22","Show",5,"Referral - Resident",94
+894,"2013-06-22","Show",5,"Google",94
+895,"2013-06-22","Show",5,"Google",94
+896,"2013-06-24","Show",4,"SIGN-Monument",94
+897,"2013-06-24","Show",4,"SIGN-Monument",94
+898,"2013-06-25","Show",4,"WEB-Apartments.Com",94
+899,"2013-06-26","Appointment",4,"WEB-Rent.com",94
+900,"2013-06-26","Show",4,"SIGN-Monument",94
+901,"2013-06-26","Show",4,"WEB-Google Places",94
+902,"2013-06-26","Email",2,"Portal",96
+903,"2013-06-26","Show",4,"REF-Neighborhood Resident",94
+904,"2013-06-27","Show",4,"WEB-Rent.com",94
+905,"2013-06-28","Show",4,"WEB-Google Places",96
+906,"2013-07-01","Show",4,"WEB-Apartmentguide.com",94
+907,"2013-07-02","Show",4,"WEB-Apartmentguide.com",94
+908,"2013-07-02","Show",4,"Transfer",94
+908,"2013-07-02","RentOverride",4,"Transfer",94
+908,"2013-07-02","SubmitApplication",4,"Transfer",94
+908,"2013-07-02","ApplicationApproved",4,"Transfer",94
+908,"2013-07-02","LeaseSigned",4,"Transfer",94
+909,"2013-07-02","Show",4,"SIGN-Monument",94
+910,"2013-07-02","Show",5,"Signage",94
+911,"2013-07-03","Show",4,"Signage",94
+912,"2013-07-05","Show",4,"SIGN-Monument",96
+913,"2013-07-06","Show",4,"SIGN-Monument",94
+914,"2013-07-06","Show",4,"REF-Resident Referral",96
+915,"2013-07-09","Email",2,"Portal",96
+917,"2013-07-10","RentOverride",2,"Portal",94
+917,"2013-07-10","SubmitApplication",2,"Portal",94
+917,"2013-07-10","ApplicationApproved",2,"Portal",94
+917,"2013-07-10","Email",2,"Portal",94
+917,"2013-07-11","LeaseSigned",2,"Portal",94
+918,"2013-07-10","Show",4,"REF-Neighborhood Resident",96
+919,"2013-07-11","Show",4,"SIGN-Monument",94
+922,"2013-07-15","Show",4,"Apartments.Com",96
+923,"2013-07-12","SubmitApplication",2,"Portal",96
+923,"2013-07-12","ApplicationApproved",5,"Portal",96
+923,"2013-07-12","LeaseSigned",5,"Portal",96
+923,"2013-07-12","Email",2,"Portal",94
+923,"2013-07-29","AssignUnit",NULL,"Portal",96
+924,"2013-07-15","Show",4,"SIGN-Monument",96
+925,"2013-07-16","Show",5,"Property Website",94
+925,"2013-07-16","RentOverride",5,"Property Website",94
+925,"2013-07-16","SubmitApplication",5,"Property Website",94
+925,"2013-07-17","ApplicationApproved",5,"Property Website",94
+925,"2013-07-17","LeaseSigned",5,"Property Website",94
+926,"2013-07-18","Show",4,"SIGN-Monument",96
+927,"2013-07-19","Show",5,"SIGN-Monument",94
+928,"2013-07-19","Show",5,"Referral - Other",96
+929,"2013-07-20","Show",5,"REF-Resident Referral",96
+929,"2013-07-22","RentOverride",5,"REF-Resident Referral",96
+929,"2013-07-22","SubmitApplication",5,"REF-Resident Referral",96
+929,"2013-07-23","ApplicationApproved",5,"REF-Resident Referral",96
+929,"2013-07-23","LeaseSigned",5,"REF-Resident Referral",96
+930,"2013-07-20","Show",5,"Google",94
+931,"2013-07-22","RentOverride",2,"Portal",94
+931,"2013-07-22","SubmitApplication",2,"Portal",94
+931,"2013-07-22","Email",2,"Portal",94
+931,"2013-07-23","LeaseSigned",2,"Portal",94
+931,"2013-07-23","ApplicationApproved",2,"Portal",94
+932,"2013-07-22","SubmitApplication",2,"Portal",94
+932,"2013-07-22","ApplicationCanceled",2,"Portal",94
+932,"2013-07-22","Email",2,"Portal",94
+933,"2013-07-22","Email",2,"Portal",94
+933,"2013-07-22","SubmitApplication",2,"Portal",94
+933,"2013-07-22","ApplicationApproved",2,"Portal",94
+933,"2013-07-23","LeaseSigned",2,"Portal",94
+934,"2013-07-22","Show",4,"Referral - Property",94
+935,"2013-07-22","Appointment",5,"Google",96
+936,"2013-07-23","Show",4,"SIGN-Monument",96
+937,"2013-07-27","Appointment",5,"Google",96
+938,"2013-07-24","Show",4,"WEB-Apartments.Com",96
+938,"2013-07-24","RentOverride",4,"WEB-Apartments.Com",96
+938,"2013-07-24","SubmitApplication",4,"WEB-Apartments.Com",96
+938,"2013-07-25","ApplicationApproved",4,"WEB-Apartments.Com",96
+938,"2013-07-25","LeaseSigned",4,"WEB-Apartments.Com",96
+939,"2013-07-24","Show",4,"SIGN-Monument",96
+940,"2013-07-25","Show",4,"WEB-Apartments.Com",96
+942,"2013-07-26","SubmitApplication",2,"Portal",94
+942,"2013-07-26","Email",2,"Portal",94
+942,"2013-07-27","ApplicationDenied",2,"Portal",94
+943,"2013-07-26","Show",4,"WEB-Google Places",96
+944,"2013-07-26","Show",4,"WEB-Craigslist",96
+945,"2013-07-27","Show",4,"WEB-Apartments.Com",96
+947,"2013-07-29","Show",4,"WEB-Apartmentguide.com",94
+948,"2013-07-29","Show",4,"SIGN-Promotional Banner",96
+949,"2013-07-29","Show",5,"WEB-Apartmentguide.com",94
+950,"2013-07-29","Show",4,"SIGN-Monument",96
+951,"2013-07-31","Show",5,"Google",96
+952,"2013-07-31","Show",4,"WEB-Rent.com",96
+954,"2013-08-01","Show",4,"REF-Neighborhood Resident",94
+955,"2013-08-02","Show",4,"SIGN-Promotional Banner",94
+956,"2013-08-02","Show",4,"REF-Neighborhood Resident",94
+956,"2013-08-02","RentOverride",4,"REF-Neighborhood Resident",94
+956,"2013-08-02","SubmitApplication",4,"REF-Neighborhood Resident",94
+956,"2013-08-06","ApplicationApproved",4,"REF-Neighborhood Resident",94
+956,"2013-08-06","LeaseSigned",4,"REF-Neighborhood Resident",94
+956,"2013-08-19","AssignUnit",NULL,"REF-Neighborhood Resident",94
+957,"2013-08-03","Show",6,"SIGN-Monument",94
+958,"2013-08-03","Show",5,"Property Website",94
+959,"2013-08-06","Show",5,"SIGN-Monument",94
+960,"2013-08-07","Show",4,"WEB-Rent.com",96
+961,"2013-08-07","Show",4,"REF-Resident Referral",94
+962,"2013-08-08","Show",4,"WEB-Google Places",96
+963,"2013-08-09","RentOverride",2,"Portal",96
+963,"2013-08-09","SubmitApplication",2,"Portal",96
+963,"2013-08-09","ApplicationApproved",4,"Portal",96
+963,"2013-08-09","LeaseSigned",9,"Portal",96
+963,"2013-08-09","Email",2,"Portal",96
+964,"2013-08-09","Show",4,"WEB-Google Places",96
+965,"2013-08-09","Show",5,"ForRent.com",96
+966,"2013-08-09","Show",5,"Google",94
+967,"2013-08-10","Show",4,"SIGN-Promotional Banner",94
+968,"2013-08-13","Appointment",6,"AD-Apartment Guide",96
+968,"2013-08-13","Show",6,"AD-Apartment Guide",96
+969,"2013-08-15","Show",4,"WEB-Google Places",96
+971,"2013-08-19","Appointment",5,"Referral - Family Member",94
+972,"2013-08-16","Show",4,"SIGN-Promotional Banner",94
+973,"2013-08-17","Show",5,"Google",96
+974,"2013-08-19","Show",4,"SIGN-Monument",94
+975,"2013-08-19","Show",5,"Property Website",96
+976,"2013-08-19","Show",5,"Drive-by/Walk-in",94
+978,"2013-08-20","Show",4,"WEB-Google Places",96
+979,"2013-08-20","Show",4,"WEB-Apartmentguide.com",96
+979,"2013-08-20","SubmitApplication",4,"WEB-Apartmentguide.com",96
+979,"2013-08-20","ApplicationDenied",4,"WEB-Apartmentguide.com",96
+980,"2013-08-21","Show",4,"SIGN-Monument",94
+981,"2013-08-22","Show",4,"REF-Resident Referral",96
+9201,"2013-08-26","Show",4,"REF-Resident Referral",94
+9690,"2013-09-12","Show",4,"WEB-Google Places",94
+9691,"2013-09-13","Email",7,"SIGN-Monument",94
