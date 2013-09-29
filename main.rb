@@ -36,36 +36,13 @@ all_prospects = FileGetter.get_prospect_events_file
 
 puts "#{all_prospects.inspect}"
 
-itar = 0
-all_prospects.each do |prospect_array|
-  prospect = prospect_array[1]
-  if itar < 10
-    agent_id = prospect.agent_id
-    year_month = prospect.closing_date.strftime('%Y-%m')
-    if agents[agent_id].nil?
-      #create new agent
-      #this_agent = Agent.new()
-    else
-      this_agent = agents[agent_id]      
-      this_agent.month_data[year_month][:total_prospects] += 1
-    end
-    if prospect.closing_time
-      avg_closing_time = this_agent.month_data[year_month][:avg_closing_time]
-      closed_prospects = this_agent.month_data[year_month][:closed_prospects]
-      new_avg_closing_time = (avg_closing_time * closed_prospects + prospect.closing_time) /
-                                (closed_prospects + 1)
-      this_agent.month_data[year_month][:avg_closing_time] = new_avg_closing_time
-      this_agent.month_data[year_month][:closed_prospects] += 1
-    end
-      
+agents = Agent.process_prospects_for_agents(all_prospects)
+
+if defined?(agents)
+  agents.each do |agent|
+    
   end
-  itar += 1
 end
-
-agents.each do |agent|
-  
-end
-
 # class MarketRent
   # attr_accessor :year, :month, :value
 # end

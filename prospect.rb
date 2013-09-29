@@ -32,7 +32,7 @@ class Prospect
     
     if prospects[prospect_id].nil?
       this_prospect = Prospect.new(prospect_id, event_date, agent_id, 
-                                    source, unit_type_id, event_date)
+                                    source, unit_type_id)
       #this_prospect
     else
       this_prospect = prospects[prospect_id]
@@ -116,13 +116,15 @@ class Prospect
   
   def closing_date=(new_date)
     # TODO: check input new_date to make sure it's a Date
+    raise "closing_date not a date" unless Date === new_date
     if @closing_date.nil? || (new_date > @closing_date)
       @closing_date = new_date
     end
   end
   
   def last_date=(new_date)
-    return if Date !== new_date
+    # TODO: check input new_date to make sure it's a Date
+    raise "last_date not a date" unless Date === new_date
     if @last_date.nil? || (new_date > @last_date)
       @last_date = new_date
     end
@@ -146,6 +148,7 @@ class Prospect
     @agent_id = agent_id
     @source = source
     @unit_type_id = unit_type_id
+    @last_date = event_date
   end
   
   def inspect

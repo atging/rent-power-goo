@@ -4,7 +4,7 @@
 module FileGetter
   def self.get_market_rents_file
     filename = 'market_rents.csv'
-    filepath = 'd:\Ruby193\src\rentLytics_exercises\\'
+    filepath = 'd:\Ruby193\src\rent-power-goo\data\\'
     unit_types = {}
     header_read = false
     
@@ -45,7 +45,7 @@ module FileGetter
 
   def self.get_prospect_events_file
     filename = 'prospect_events.csv'
-    filepath = 'd:\Ruby193\src\rentLytics_exercises\\'
+    filepath = 'd:\Ruby193\src\rent-power-goo\data\\'
     #agents = {}
     prospects = {}
     header_read = false
