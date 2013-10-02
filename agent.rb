@@ -31,28 +31,31 @@ class Agent
           else
             this_agent.month_data[year_month][:total_prospects] = 1
           end
-        end
-        if prospect.closing_time
-          if !this_agent.month_data.nil? && !(this_agent.month_data[year_month][:avg_closing_time]).nil?
-            avg_closing_time = this_agent.month_data[year_month][:avg_closing_time]
-          else
-            avg_closing_time = 0
-          end
-          if !this_agent.month_data.nil? && !this_agent.month_data[year_month][:closed_prospects].nil?
-            closed_prospects = this_agent.month_data[year_month][:closed_prospects]
-          else
-            closed_prospects = 0
-          end
-          new_avg_closing_time = (avg_closing_time * closed_prospects + prospect.closing_time) /
-                                    (closed_prospects + 1)
-          this_agent.set_avg_closing_time(year_month, new_avg_closing_time)
-          this_agent.increment_closed_prospects(year_month)
-        end
-          
+        end        
+        this_agent.change_avg_closing_time(year_month, prospect)
       end
       itar += 1
     end
     return agents
+  end
+  
+  def change_avg_closing_time(year_month, prospect)
+    if prospect.closing_time
+      if !self.month_data.nil? && !(self.month_data[year_month][:avg_closing_time]).nil?
+        avg_closing_time = self.month_data[year_month][:avg_closing_time]
+      else
+        avg_closing_time = 0
+      end
+      if !self.month_data.nil? && !self.month_data[year_month][:closed_prospects].nil?
+        closed_prospects = self.month_data[year_month][:closed_prospects]
+      else
+        closed_prospects = 0
+      end
+      new_avg_closing_time = (avg_closing_time * closed_prospects + prospect.closing_time) /
+                                (closed_prospects + 1)
+      self.set_avg_closing_time(year_month, new_avg_closing_time)
+      self.increment_closed_prospects(year_month)
+    end
   end
   
   def set_avg_closing_time(year_month, avg_closing_time)
